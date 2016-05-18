@@ -1,6 +1,6 @@
 FROM ubuntu:14.04.3
 MAINTAINER Upendra Devisetty <upendra@cyverse.org>
-LABEL Description "This Dockerfile is for QUAST-4.0"
+LABEL Description "This Dockerfile is for metaQUAST-4.0"
 
 RUN apt-get update 
 
@@ -32,3 +32,17 @@ RUN ./configure && make && make install
 # Specify entrypoint
 ENTRYPOINT ["/quast-release_4.0/metaquast.py"]
 CMD ["-h"]
+
+# Build the image
+# docker build -t"=ubuntu/metaquast-4.0" .
+# Testing the image
+# Without any arguments
+# sudo docker run ubuntu/metaquast-4.0 -h
+# With arguments
+# Metaquast with ref
+# sudo docker run --rm -v $(pwd):/working-dir -w /working-dir ubuntu/metaquast-4.0 -o metaquast_test_output -R meta_ref_1.fasta,meta_ref_2.fasta,meta_ref_3.fasta meta_contigs_1.fasta meta_contigs_2.fasta
+# Metaquast with no reference
+# sudo docker run --rm -v $(pwd):/working-dir -w /working-dir ubuntu/metaquast-4.0 -o metaquast_test_output_no_ref meta_contigs_1.fasta meta_contigs_2.fasta
+
+
+
