@@ -1,0 +1,9 @@
+meta_ref_1_Lactobacillus_planta
+1 77
+792 5304
+meta_ref_2_Lactobacillus_delbru
+3441 4892
+meta_ref_3_Lactobacillus_reuter
+4925 5196
+35619 35991
+53526 53898

@@ -1,0 +1,9 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+38427 39063 | 1 637 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_9_length_637_cov_25.4296
+1820176 1840083 | 1 19894 | 19908 19894 | 98.72 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_15_length_55106_cov_26.0999
+1841599 1862418 | 19895 40716 | 20820 20822 | 99.23 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_15_length_55106_cov_26.0999
+1863970 1872141 | 46914 55106 | 8172 8193 | 99.45 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_15_length_55106_cov_26.0999
+1593478 1594406 | 1 929 | 929 929 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_33_length_929_cov_25.7529
+1815046 1815895 | 1 850 | 850 850 | 98.24 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_35_length_850_cov_25.8629
+37341 38481 | 1141 1 | 1141 1141 | 99.82 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_39_length_1141_cov_25.1602

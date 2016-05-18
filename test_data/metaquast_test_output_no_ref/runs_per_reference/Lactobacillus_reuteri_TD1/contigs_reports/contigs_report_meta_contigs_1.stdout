@@ -1,0 +1,152 @@
+Aligning contigs to reference...
+	Running Nucmer
+Parsing coords...
+Loading reference...
+	Loaded [Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_]
+Loading SNPs...
+Loading regions...
+	No regions given, using whole reference.
+	Total Regions: 1
+	Total Region Length: 2145445
+Analyzing contigs...
+CONTIG: NODE_25_length_832_cov_317.008 (832bp)
+Top Length: 832  Top ID: 99.52
+		Marking as insignificant: 683552 683795 | 1 248 | 244 248 | 97.58 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 664486 664729 | 1 248 | 244 248 | 97.58 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 1523708 1523951 | 248 1 | 244 248 | 97.98 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 683999 684579 | 252 832 | 581 581 | 99.48 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 664933 665513 | 252 832 | 581 581 | 99.48 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 1522924 1523504 | 832 252 | 581 581 | 99.83 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 1168034 1168861 | 832 1 | 828 832 | 99.52 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Skipping alignment  205045 205872 | 1 832 | 828 832 | 99.28 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+		Skipping alignment  348269 349096 | 1 832 | 828 832 | 99.16 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+
+CONTIG: NODE_30_length_694_cov_43.795 (694bp)
+Top Length: 694  Top ID: 99.14
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 1168859 1169552 | 1 694 | 694 694 | 99.14 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  347578 348271 | 694 1 | 694 694 | 98.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  663795 664488 | 694 1 | 694 694 | 98.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  682861 683554 | 694 1 | 694 694 | 98.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  1523949 1524642 | 1 694 | 694 694 | 98.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  204354 205047 | 694 1 | 694 694 | 98.85 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+
+CONTIG: NODE_32_length_1057_cov_298.503 (1057bp)
+Top Length: 1057  Top ID: 99.91
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 207077 208133 | 1057 1 | 1057 1057 | 99.91 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  1520663 1521719 | 1 1057 | 1057 1057 | 99.91 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  666718 667774 | 1057 1 | 1057 1057 | 99.81 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  685784 686840 | 1057 1 | 1057 1057 | 99.81 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  1165773 1166829 | 1 1057 | 1057 1057 | 99.81 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  350301 351355 | 1057 3 | 1055 1055 | 99.91 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+
+CONTIG: NODE_37_length_747_cov_199.488 (747bp)
+Top Length: 747  Top ID: 99.6
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 1168859 1169605 | 1 747 | 747 747 | 99.6 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  347525 348271 | 747 1 | 747 747 | 99.46 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  663742 664488 | 747 1 | 747 747 | 99.46 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  682808 683554 | 747 1 | 747 747 | 99.46 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  1523949 1524695 | 1 747 | 747 747 | 99.46 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  204301 205047 | 747 1 | 747 747 | 99.33 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+
+CONTIG: NODE_38_length_862_cov_88.5167 (862bp)
+Top Length: 862  Top ID: 97.22
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 1168859 1169720 | 1 862 | 862 862 | 97.22 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  347410 348271 | 862 1 | 862 862 | 97.1 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  663627 664488 | 862 1 | 862 862 | 97.1 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  682693 683554 | 862 1 | 862 862 | 97.1 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  204186 205047 | 862 1 | 862 862 | 96.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  1523949 1524810 | 1 862 | 862 862 | 96.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+
+CONTIG: NODE_40_length_987_cov_309.523 (987bp)
+Top Length: 987  Top ID: 99.8
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 205818 206804 | 987 1 | 987 987 | 99.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  1167102 1168088 | 1 987 | 987 987 | 99.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  665459 666445 | 987 1 | 987 987 | 99.7 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  684525 685511 | 987 1 | 987 987 | 99.7 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  1521992 1522978 | 1 987 | 987 987 | 99.7 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  349042 350028 | 987 1 | 987 987 | 99.59 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523
+
+Analyzing coverage...
+Writing SNPs into /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_TD1/contigs_reports/nucmer_output/meta_contigs_1.used_snps
+	Reference Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_: 6 total alignments. 1 total regions.
+		Region: 1 to 2145445 (2145445 bp)
+			START in gap: 1 to 205818 (205817 bp)
+			Align 1: 205818 206804 NODE_40_length_987_cov_309.523 987 1
+				Gap between this and next alignment: 206804 to 207077 (272 bp)
+				Next Alignment: 207077 208133 NODE_32_length_1057_cov_298.503 1057 1
+
+			Align 2: 207077 208133 NODE_32_length_1057_cov_298.503 1057 1
+				Gap between this and next alignment: 208133 to 1168034 (959900 bp)
+				Next Alignment: 1168034 1168861 NODE_25_length_832_cov_317.008 832 1
+
+			Align 3: 1168034 1168861 NODE_25_length_832_cov_317.008 832 1
+				Negative gap (overlap) between this and next alignment: 1168861 to 1168859 (-2 bp)
+				Next Alignment: 1168859 1169552 NODE_30_length_694_cov_43.795 1 694
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 4.
+			Align 4: 1168862 1169552 NODE_30_length_694_cov_43.795 4 694
+				Negative gap (overlap) between this and next alignment: 1169552 to 1168859 (-693 bp)
+				Next Alignment: 1168859 1169605 NODE_37_length_747_cov_199.488 1 747
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 695.
+			Align 5: 1169553 1169605 NODE_37_length_747_cov_199.488 695 747
+				Negative gap (overlap) between this and next alignment: 1169605 to 1168859 (-746 bp)
+				Next Alignment: 1168859 1169720 NODE_38_length_862_cov_88.5167 1 862
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 748.
+			Align 6: 1169606 1169720 NODE_38_length_862_cov_88.5167 748 862
+			END in gap: 1169720 to 2145445 (975725 bp)
+
+Analysis is finished!
+Founded SNPs were written into /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_TD1/contigs_reports/nucmer_output/meta_contigs_1.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 5179
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 3731
+
+	SNPs: 11
+	Insertions: 5
+	Deletions: 1
+
+	Positive Gaps: 4
+		Internal Gaps:  0
+		External Gaps:  4
+		External Gap Total:  2141714
+		External Gap Average: 535428
+	Negative Gaps: 3
+		Internal Overlaps:  0
+		External Overlaps:  3
+		External Overlaps Total: -1441
+		External Overlaps Average: -480
+	Contigs with Redundant Alignments: 0 (0)

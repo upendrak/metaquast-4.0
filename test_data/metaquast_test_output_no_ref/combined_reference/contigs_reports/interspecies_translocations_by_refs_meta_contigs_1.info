@@ -1,0 +1,25 @@
+Number of interspecies translocations by references: 
+
+References                                             1  2  3  4  5  6  7  8  9  10
+Lactobacillus_brantae                                  -  0  0  0  0  0  0  0  0  0 
+Lactobacillus_delbrueckii_subsp_bulgaricus_2038        0  -  1  0  0  0  0  0  0  0 
+Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842  0  1  -  0  0  0  0  0  0  0 
+Lactobacillus_plantarum_16                             0  0  0  -  0  0  0  0  0  0 
+Lactobacillus_psittaci                                 0  0  0  0  -  0  0  0  0  0 
+Lactobacillus_reuteri_DSM_20016                        0  0  0  0  0  -  0  0  0  0 
+Lactobacillus_reuteri_TD1                              0  0  0  0  0  0  -  0  0  0 
+Lactobacillus_xiangfangensis                           0  0  0  0  0  0  0  -  0  0 
+Pediococcus_acidilactici_D3                            0  0  0  0  0  0  0  0  -  0 
+Streptococcus_agalactiae_SS1219                        0  0  0  0  0  0  0  0  0  - 
+
+References: 
+1 - Lactobacillus_brantae
+2 - Lactobacillus_delbrueckii_subsp_bulgaricus_2038
+3 - Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842
+4 - Lactobacillus_plantarum_16
+5 - Lactobacillus_psittaci
+6 - Lactobacillus_reuteri_DSM_20016
+7 - Lactobacillus_reuteri_TD1
+8 - Lactobacillus_xiangfangensis
+9 - Pediococcus_acidilactici_D3
+10 - Streptococcus_agalactiae_SS1219

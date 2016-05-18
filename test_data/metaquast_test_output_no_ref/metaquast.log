@@ -1,0 +1,153 @@
+/quast-release_4.0/metaquast.py -o metaquast_test_output_no_ref meta_contigs_1.fasta meta_contigs_2.fasta
+
+Version: 4.0
+
+System information:
+  OS: Linux-3.10.0-229.14.1.el7.x86_64-x86_64-with-Ubuntu-14.04-trusty (linux_64)
+  Python version: 2.7.6
+  CPUs number: 16
+
+Started: 2016-05-18 22:27:53
+
+Logging to /working-dir/metaquast_test_output_no_ref/metaquast.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+Contigs:
+  1  meta_contigs_1.fasta ==> meta_contigs_1
+  2  meta_contigs_2.fasta ==> meta_contigs_2
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2016-05-18 22:27:54
+
+Downloading makeblastdb...
+makeblastdb successfully downloaded!
+
+
+Downloading blastn...
+blastn successfully downloaded!
+
+
+Downloading SILVA 16S ribosomal RNA gene database...
+Processing downloaded file. Logging to /quast-release_4.0/libs/blast/16S_RNA_blastdb/blastdb.log...
+Unpacking and replacing " " with "_"...
+gunzip -c /quast-release_4.0/libs/blast/16S_RNA_blastdb/SILVA_119_SSURef_Nr99_tax_silva.fasta.gz \
+> /quast-release_4.0/libs/blast/16S_RNA_blastdb/SILVA_119_SSURef_Nr99_tax_silva.fasta.unpacked \
+2>> /quast-release_4.0/libs/blast/16S_RNA_blastdb/blastdb.log
+Making BLAST database...
+/quast-release_4.0/libs/blast/makeblastdb -in /quast-release_4.0/libs/blast/16S_RNA_blastdb/SILVA_119_SSURef_Nr99_tax_silva.fasta \
+-dbtype nucl -out /quast-release_4.0/libs/blast/16S_RNA_blastdb/silva_119.db >> /quast-release_4.0/libs/blast/16S_RNA_blastdb/blastdb.log \
+2>> /quast-release_4.0/libs/blast/16S_RNA_blastdb/blastdb.log
+
+Running BlastN..
+  processing meta_contigs_1
+  processing meta_contigs_2
+/quast-release_4.0/libs/blast/blastn -query meta_contigs_2.fasta -db /quast-release_4.0/libs/blast/16S_RNA_blastdb/silva_119.db \
+-outfmt 7 -num_threads 2 > metaquast_test_output_no_ref/quast_downloaded_references/blast.res_meta_contigs_2 \
+2>> metaquast_test_output_no_ref/quast_downloaded_references/blast.err
+  BLAST results for meta_contigs_2 are saved to /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/blast.res_meta_contigs_2...
+  BLAST results for meta_contigs_1 are saved to /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/blast.res_meta_contigs_1...
+
+
+2016-05-18 22:31:08
+Trying to download found references from NCBI. Totally 12 organisms to try.
+  Lactobacillus_psittaci                                 | successfully downloaded (total 1, 11 more to go)
+  Lactobacillus_reuteri_TD1                              | successfully downloaded (total 2, 10 more to go)
+  Lactobacillus_reuteri_DSM_20016                        | successfully downloaded (total 3, 9 more to go)
+  Lactobacillus_sp._NBRC_14512                           | not found in the NCBI database
+  bacterium_SM8-19                                       | not found in the NCBI database
+  Streptococcus_agalactiae_SS1219                        | successfully downloaded (total 4, 6 more to go)
+  Lactobacillus_brantae                                  | successfully downloaded (total 5, 5 more to go)
+  Lactobacillus_delbrueckii_subsp._bulgaricus_2038       | successfully downloaded (total 6, 4 more to go)
+  Lactobacillus_plantarum_16                             | successfully downloaded (total 7, 3 more to go)
+  Lactobacillus_delbrueckii_subsp._bulgaricus_ATCC_11842 | successfully downloaded (total 8, 2 more to go)
+  Lactobacillus_xiangfangensis                           | successfully downloaded (total 9, 1 more to go)
+  Pediococcus_acidilactici_D3                            | successfully downloaded (total 10, 0 more to go)
+
+Downloaded reference(s):
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_brantae.fasta ==> Lactobacillus_brantae
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_delbrueckii_subsp_bulgaricus_2038.fasta ==> Lactobacillus_delbrueckii_subsp_bulgaricus_2038
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842.fasta ==> Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_plantarum_16.fasta ==> Lactobacillus_plantarum_16
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_psittaci.fasta ==> Lactobacillus_psittaci
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_reuteri_DSM_20016.fasta ==> Lactobacillus_reuteri_DSM_20016
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_reuteri_TD1.fasta ==> Lactobacillus_reuteri_TD1
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Lactobacillus_xiangfangensis.fasta ==> Lactobacillus_xiangfangensis
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Pediococcus_acidilactici_D3.fasta ==> Pediococcus_acidilactici_D3
+  /working-dir/metaquast_test_output_no_ref/quast_downloaded_references/Streptococcus_agalactiae_SS1219.fasta ==> Streptococcus_agalactiae_SS1219
+  All references combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+(logging to /working-dir/metaquast_test_output_no_ref/combined_reference/quast.log)
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing meta_contigs_1
+  processing meta_contigs_2
+
+No contigs were aligned to the reference Lactobacillus_brantae, skipping..
+
+Starting quast.py for the contigs aligned to Lactobacillus_delbrueckii_subsp_bulgaricus_2038
+(logging to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_delbrueckii_subsp_bulgaricus_2038/quast.log)
+
+Starting quast.py for the contigs aligned to Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842
+(logging to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842/quast.log)
+
+Starting quast.py for the contigs aligned to Lactobacillus_plantarum_16
+(logging to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/quast.log)
+
+No contigs were aligned to the reference Lactobacillus_psittaci, skipping..
+
+Starting quast.py for the contigs aligned to Lactobacillus_reuteri_DSM_20016
+(logging to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/quast.log)
+
+Starting quast.py for the contigs aligned to Lactobacillus_reuteri_TD1
+(logging to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_TD1/quast.log)
+
+No contigs were aligned to the reference Lactobacillus_xiangfangensis, skipping..
+
+No contigs were aligned to the reference Pediococcus_acidilactici_D3, skipping..
+
+No contigs were aligned to the reference Streptococcus_agalactiae_SS1219, skipping..
+
+Starting quast.py for the contigs not aligned anywhere...
+(logging to /working-dir/metaquast_test_output_no_ref/not_aligned/quast.log)
+
+2016-05-18 22:34:45
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+  Drawing Largest contig metaQUAST summary plot...
+  Drawing Total length metaQUAST summary plot...
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+  Drawing # misassemblies metaQUAST summary plot...
+  Drawing metaQUAST summary misassemblies plot for meta_contigs_1...
+  Drawing metaQUAST summary misassemblies plot for meta_contigs_2...
+  Drawing Misassembled contigs length metaQUAST summary plot...
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+  Drawing Genome fraction (%) metaQUAST summary plot...
+  Drawing Duplication ratio metaQUAST summary plot...
+  Drawing NGA50 metaQUAST summary plot...
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /working-dir/metaquast_test_output_no_ref/summary/
+  Icarus (contig browser) is saved to /working-dir/metaquast_test_output_no_ref/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for meta_contigs_1 is saved to /working-dir/metaquast_test_output_no_ref/krona_charts/meta_contigs_1_taxonomy_chart.html
+  Krona chart for meta_contigs_2 is saved to /working-dir/metaquast_test_output_no_ref/krona_charts/meta_contigs_2_taxonomy_chart.html
+  Summary Krona chart is saved to /working-dir/metaquast_test_output_no_ref/krona_charts/summary_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /working-dir/metaquast_test_output_no_ref/report.html
+
+MetaQUAST finished.
+  Log saved to /working-dir/metaquast_test_output_no_ref/metaquast.log
+
+Finished: 2016-05-18 22:34:49
+Elapsed time: 0:06:56.276468
+Total NOTICEs: 16; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

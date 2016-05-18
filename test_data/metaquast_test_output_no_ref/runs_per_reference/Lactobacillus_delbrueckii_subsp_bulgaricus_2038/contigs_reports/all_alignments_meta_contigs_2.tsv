@@ -1,0 +1,9 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous
+CONTIG	NODE_1_length_55421_cov_26.1146_ID_4744408	55421
+1863970	1872141	8193	1	Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408	99.45	
+relocation, inconsistency = -4646
+1841599	1862418	35212	14391	Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408	99.23	
+relocation, inconsistency = 1515
+1819861	1840083	55421	35213	Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408	98.74	
+CONTIG	NODE_7_length_3447_cov_44.4894_ID_2480336	3447
+1412976	1416423	3447	1	Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_	NODE_7_length_3447_cov_44.4894_ID_2480336	99.36	

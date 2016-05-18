@@ -1,0 +1,15 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_2.ntref" of length 1999619
+# construct suffix tree for sequence of length 1999619
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 19996 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /quast-release_4.0/libs/MUMmer3.23-linux/mummer /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_2.ntref 0.63
+# reading input file "/working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_to_Lactobacillus_reuteri_DSM_20016.fasta" of length 63021
+# matching query-file "/working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_to_Lactobacillus_reuteri_DSM_20016.fasta"
+# against subject-file "/working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_2.ntref"
+# COMPLETETIME /quast-release_4.0/libs/MUMmer3.23-linux/mummer /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_2.ntref 0.68
+# SPACE /quast-release_4.0/libs/MUMmer3.23-linux/mummer /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_2.ntref 2.00
+4: FINISHING DATA

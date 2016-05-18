@@ -1,0 +1,25 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous
+CONTIG	NODE_1_length_55421_cov_26.1146_ID_4744408	55421
+4578	59998	55421	1	meta_ref_2_Lactobacillus_delbru	NODE_1_length_55421_cov_26.1146_ID_4744408	100.0	
+CONTIG	NODE_2_length_49658_cov_2.58581_ID_2497514	49658
+5305	54962	1	49658	meta_ref_1_Lactobacillus_planta	NODE_2_length_49658_cov_2.58581_ID_2497514	99.98	
+CONTIG	NODE_3_length_27260_cov_310.524_ID_9332986	27260
+7597	34856	1	27260	meta_ref_3_Lactobacillus_reuter	NODE_3_length_27260_cov_310.524_ID_9332986	99.99	
+CONTIG	NODE_4_length_16099_cov_310.325_ID_9343456	16099
+36665	52763	1	16099	meta_ref_3_Lactobacillus_reuter	NODE_4_length_16099_cov_310.325_ID_9343456	100.0	
+CONTIG	NODE_5_length_10428_cov_300.989_ID_9343584	10428
+54572	64999	1	10428	meta_ref_3_Lactobacillus_reuter	NODE_5_length_10428_cov_300.989_ID_9343584	100.0	
+CONTIG	NODE_6_length_6988_cov_303.415_ID_9341226	6988
+25	7012	1	6988	meta_ref_3_Lactobacillus_reuter	NODE_6_length_6988_cov_303.415_ID_9341226	99.97	
+CONTIG	NODE_7_length_3447_cov_44.4894_ID_2480336	3447
+3	3449	3447	1	meta_ref_2_Lactobacillus_delbru	NODE_7_length_3447_cov_44.4894_ID_2480336	99.56	
+CONTIG	NODE_8_length_817_cov_651.256_ID_9343784	817
+52709	53525	1	817	meta_ref_3_Lactobacillus_reuter	NODE_8_length_817_cov_651.256_ID_9343784	99.51	True
+34802	35618	1	817	meta_ref_3_Lactobacillus_reuter	NODE_8_length_817_cov_651.256_ID_9343784	98.65	True
+CONTIG	NODE_9_length_729_cov_671.122_ID_9343806	729
+35991	36719	729	1	meta_ref_3_Lactobacillus_reuter	NODE_9_length_729_cov_671.122_ID_9343806	100.0	
+CONTIG	NODE_10_length_714_cov_2.71927_ID_9333852	714
+78	791	714	1	meta_ref_1_Lactobacillus_planta	NODE_10_length_714_cov_2.71927_ID_9333852	99.86	
+CONTIG	NODE_11_length_694_cov_336.263_ID_9343406	694
+6958	7651	1	694	meta_ref_3_Lactobacillus_reuter	NODE_11_length_694_cov_336.263_ID_9343406	99.86	
+CONTIG	NODE_35_specially_unaligned	885

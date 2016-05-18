@@ -1,0 +1,130 @@
+/quast-release_4.0/quast.pyc --meta  --colors #E31A1C,#1F78B4 --ls solid,solid --no-check-meta  --contig-thresholds 1000,5000,10000,25000,50000 -R /working-dir/metaquast_test_output_no_ref/quast_corrected_input/Lactobacillus_plantarum_16.fasta -o /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16 --labels "meta_contigs_1, meta_contigs_2" /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_1_to_Lactobacillus_plantarum_16.fasta /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_to_Lactobacillus_plantarum_16.fasta
+
+Started: 2016-05-18 22:34:23
+
+Logging to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/quast.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+Main parameters: 
+  Threads: 4, meta: true, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /working-dir/metaquast_test_output_no_ref/quast_corrected_input/Lactobacillus_plantarum_16.fasta ==> Lactobacillus_plantarum_16
+
+Contigs:
+  1  /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_1_to_Lactobacillus_plantarum_16.fasta ==> meta_contigs_1
+  2  /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_to_Lactobacillus_plantarum_16.fasta ==> meta_contigs_2
+
+2016-05-18 22:34:23
+Running Basic statistics processor...
+  Reference genome:
+    Lactobacillus_plantarum_16.fasta, Reference length = 3044678, Reference GC % = 44.74
+  Contig files: 
+    1  meta_contigs_1
+    2  meta_contigs_2
+  Calculating N50 and L50...
+    1  meta_contigs_1, N50 = 49658, L50 = 1, Total length = 50372, GC % = 45.67, # N's per 100 kbp =  0.00
+    2  meta_contigs_2, N50 = 49658, L50 = 1, Total length = 50372, GC % = 45.67, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/basic_stats/GC_content_plot.pdf
+Done.
+
+2016-05-18 22:34:25
+Running Contig analyzer...
+  1  meta_contigs_1
+  1  Logging to files /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_1.stdout and contigs_report_meta_contigs_1.stderr...
+  2  Logging to files /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_2.stdout and contigs_report_meta_contigs_2.stderr...
+  2  Running Nucmer
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/nucmer -c 65 -l 65 --maxmatch -p metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1 \
+     metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/quast_corrected_input/Lactobacillus_plantarum_16.fasta \
+     metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_1_to_Lactobacillus_plantarum_16.fasta \
+     >> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_1.stdout \
+     2>> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_1.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/nucmer -c 65 -l 65 --maxmatch -p metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2 \
+     metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/quast_corrected_input/Lactobacillus_plantarum_16.fasta \
+     metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_to_Lactobacillus_plantarum_16.fasta \
+     >> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_2.stdout \
+     2>> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_2.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/delta-filter -i 95 -l 0 metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.delta \
+     > metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.fdelta \
+     2> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_2.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/show-coords metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.delta \
+     > metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.coords_tmp \
+     2> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_2.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/show-snps -S -T -H metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.delta \
+     < metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.coords.headless \
+     > metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_2.all_snps \
+     2> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_2.stderr
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/delta-filter -i 95 -l 0 metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.delta \
+     > metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.fdelta \
+     2> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_1.stderr
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/show-coords metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.delta \
+     > metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.coords_tmp \
+     2> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_1.stderr
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/show-snps -S -T -H metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.delta \
+     < metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.coords.headless \
+     > metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/nucmer_output/meta_contigs_1.all_snps \
+     2> metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/contigs_report_meta_contigs_1.stderr
+  2  Alignments: metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/alignments_meta_contigs_2.tsv
+  2  Analysis is finished.
+
+  1  Alignments: metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/alignments_meta_contigs_1.tsv
+  1  Analysis is finished.
+
+  Creating total report...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/contigs_reports/misassemblies_plot.pdf
+Done.
+
+2016-05-18 22:34:27
+Running NA-NGA calculation...
+  1  meta_contigs_1, Largest alignment = 49639, NA50 = 49639, LA50 = 1
+  2  meta_contigs_2, Largest alignment = 49639, NA50 = 49639, LA50 = 1
+  Drawing cumulative plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/aligned_stats/NGAx_plot.pdf
+Done.
+
+2016-05-18 22:34:28
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  1  meta_contigs_1
+  2  meta_contigs_2
+  1  Analysis is finished.
+  2  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-05-18 22:34:29
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2016-05-18 22:34:30
+RESULTS:
+  Text versions of total report are saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/report.html
+  PDF version (tables and plots) is saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/report.pdf
+  Icarus (contig browser) is saved to /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_plantarum_16/icarus.html

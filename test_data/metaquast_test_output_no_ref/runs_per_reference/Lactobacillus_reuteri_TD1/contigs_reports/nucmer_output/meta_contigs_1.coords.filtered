@@ -1,0 +1,8 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1168034 1168861 | 832 1 | 828 832 | 99.52 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_25_length_832_cov_317.008
+1168859 1169552 | 1 694 | 694 694 | 99.14 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_30_length_694_cov_43.795
+207077 208133 | 1057 1 | 1057 1057 | 99.91 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_32_length_1057_cov_298.503
+1168859 1169605 | 1 747 | 747 747 | 99.6 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_37_length_747_cov_199.488
+1168859 1169720 | 1 862 | 862 862 | 97.22 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_38_length_862_cov_88.5167
+205818 206804 | 987 1 | 987 987 | 99.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_40_length_987_cov_309.523

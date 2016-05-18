@@ -1,0 +1,123 @@
+/quast-release_4.0/quast.pyc --meta  --colors #E31A1C,#1F78B4 --ls solid,solid --no-check-meta  --contig-thresholds 1000,5000,10000,25000,50000 -R /working-dir/metaquast_test_output/quast_corrected_input/meta_ref_3.fasta -o /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3 --labels "meta_contigs_1, meta_contigs_2" /working-dir/metaquast_test_output/quast_corrected_input/meta_contigs_1_to_meta_ref_3.fasta /working-dir/metaquast_test_output/quast_corrected_input/meta_contigs_2_to_meta_ref_3.fasta
+
+Started: 2016-05-18 22:19:19
+
+Logging to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/quast.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+Main parameters: 
+  Threads: 4, meta: true, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /working-dir/metaquast_test_output/quast_corrected_input/meta_ref_3.fasta ==> meta_ref_3
+
+Contigs:
+  1  /working-dir/metaquast_test_output/quast_corrected_input/meta_contigs_1_to_meta_ref_3.fasta ==> meta_contigs_1
+  2  /working-dir/metaquast_test_output/quast_corrected_input/meta_contigs_2_to_meta_ref_3.fasta ==> meta_contigs_2
+
+2016-05-18 22:19:19
+Running Basic statistics processor...
+  Reference genome:
+    meta_ref_3.fasta, Reference length = 64999, Reference GC % = 40.73
+  Contig files: 
+    1  meta_contigs_1
+    2  meta_contigs_2
+  Calculating N50 and L50...
+    1  meta_contigs_1, N50 = 17535, L50 = 2, Total length = 69110, GC % = 40.75, # N's per 100 kbp =  18.81
+    2  meta_contigs_2, N50 = 16099, L50 = 2, Total length = 63015, GC % = 40.67, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/basic_stats/GC_content_plot.pdf
+Done.
+
+2016-05-18 22:19:20
+Running Contig analyzer...
+  2  meta_contigs_2
+  1  Logging to files /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_1.stdout and contigs_report_meta_contigs_1.stderr...
+  2  Running Nucmer
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/nucmer -c 65 -l 65 --maxmatch -p metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1 \
+     metaquast_test_output/runs_per_reference/meta_ref_3/quast_corrected_input/meta_ref_3.fasta \
+     metaquast_test_output/quast_corrected_input/meta_contigs_1_to_meta_ref_3.fasta \
+     >> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_1.stdout \
+     2>> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_1.stderr
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/delta-filter -i 95 -l 0 metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.delta \
+     > metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.fdelta \
+     2> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_1.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/delta-filter -i 95 -l 0 metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.delta \
+     > metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.fdelta \
+     2> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_2.stderr
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/show-coords metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.delta \
+     > metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.coords_tmp \
+     2> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_1.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/show-coords metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.delta \
+     > metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.coords_tmp \
+     2> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_2.stderr
+  1  /quast-release_4.0/libs/MUMmer3.23-linux/show-snps -S -T -H metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.delta \
+     < metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.coords.headless \
+     > metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_1.all_snps \
+     2> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_1.stderr
+  2  /quast-release_4.0/libs/MUMmer3.23-linux/show-snps -S -T -H metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.delta \
+     < metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.coords.headless \
+     > metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/nucmer_output/meta_contigs_2.all_snps \
+     2> metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/contigs_report_meta_contigs_2.stderr
+  2  Alignments: metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/alignments_meta_contigs_2.tsv
+  2  Analysis is finished.
+
+  1  Alignments: metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/alignments_meta_contigs_1.tsv
+  1  Analysis is finished.
+
+  Creating total report...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/contigs_reports/misassemblies_plot.pdf
+Done.
+
+2016-05-18 22:19:21
+Running NA-NGA calculation...
+  1  meta_contigs_1, Largest alignment = 27969, NA50 = 17534, NGA50 = 17534, LA50 = 2, LGA50 = 2
+  2  meta_contigs_2, Largest alignment = 27260, NA50 = 16099, NGA50 = 16099, LA50 = 2, LGA50 = 2
+  Drawing cumulative plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/aligned_stats/NGAx_plot.pdf
+Done.
+
+2016-05-18 22:19:21
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  2  meta_contigs_2
+  2  Analysis is finished.
+  1  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-05-18 22:19:22
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2016-05-18 22:19:23
+RESULTS:
+  Text versions of total report are saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/report.html
+  PDF version (tables and plots) is saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/report.pdf
+  Icarus (contig browser) is saved to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/icarus.html

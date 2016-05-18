@@ -1,0 +1,72 @@
+/quast-release_4.0/quast.pyc --meta  --colors #E31A1C,#1F78B4 --ls solid,solid --no-check-meta  --contig-thresholds 1000,5000,10000,25000,50000 -o /working-dir/metaquast_test_output_no_ref/not_aligned --labels "meta_contigs_1, meta_contigs_2" /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_1_not_aligned_anywhere.fasta /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_not_aligned_anywhere.fasta
+
+Started: 2016-05-18 22:34:43
+
+Logging to /working-dir/metaquast_test_output_no_ref/not_aligned/quast.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+Main parameters: 
+  Threads: 4, meta: true, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  1  /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_1_not_aligned_anywhere.fasta ==> meta_contigs_1
+  2  /working-dir/metaquast_test_output_no_ref/quast_corrected_input/meta_contigs_2_not_aligned_anywhere.fasta ==> meta_contigs_2
+
+2016-05-18 22:34:44
+Running Basic statistics processor...
+  Contig files: 
+    1  meta_contigs_1
+    2  meta_contigs_2
+  Calculating N50 and L50...
+    1  meta_contigs_1, N50 = 1610, L50 = 1, Total length = 2730, GC % = 51.94, # N's per 100 kbp =  0.00
+    2  meta_contigs_2, N50 = 885, L50 = 1, Total length = 885, GC % = 0.00, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /working-dir/metaquast_test_output_no_ref/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /working-dir/metaquast_test_output_no_ref/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /working-dir/metaquast_test_output_no_ref/not_aligned/basic_stats/GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-05-18 22:34:44
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2016-05-18 22:34:45
+RESULTS:
+  Text versions of total report are saved to /working-dir/metaquast_test_output_no_ref/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /working-dir/metaquast_test_output_no_ref/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /working-dir/metaquast_test_output_no_ref/not_aligned/report.html
+  PDF version (tables and plots) is saved to /working-dir/metaquast_test_output_no_ref/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /working-dir/metaquast_test_output_no_ref/not_aligned/icarus.html
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/#_contigs.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Largest_contig.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Total_length.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Total_length_(>=_1000_bp).pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Total_length_(>=_10000_bp).pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Total_length_(>=_50000_bp).pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/#_misassemblies.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/meta_contigs_1_misassemblies.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/meta_contigs_2_misassemblies.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Misassembled_contigs_length.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/#_mismatches_per_100_kbp.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/#_indels_per_100_kbp.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/#_N's_per_100_kbp.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Genome_fraction_(%).pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/Duplication_ratio.pdf
+    saved to /working-dir/metaquast_test_output_no_ref/summary/PDF/NGA50.pdf
+perl -I /quast-release_4.0/libs/kronatools/lib /quast-release_4.0/libs/kronatools/scripts/ImportText.pl \
+metaquast_test_output_no_ref/krona_charts/meta_contigs_1_taxonomy.txt -o metaquast_test_output_no_ref/krona_charts/meta_contigs_1_taxonomy_chart.html \
+-a > /dev/null 2> /dev/null
+perl -I /quast-release_4.0/libs/kronatools/lib /quast-release_4.0/libs/kronatools/scripts/ImportText.pl \
+metaquast_test_output_no_ref/krona_charts/meta_contigs_2_taxonomy.txt -o metaquast_test_output_no_ref/krona_charts/meta_contigs_2_taxonomy_chart.html \
+-a > /dev/null 2> /dev/null
+perl -I /quast-release_4.0/libs/kronatools/lib /quast-release_4.0/libs/kronatools/scripts/ImportText.pl \
+metaquast_test_output_no_ref/krona_charts/overall_taxonomy.txt -o metaquast_test_output_no_ref/krona_charts/summary_taxonomy_chart.html \
+-a > /dev/null 2> /dev/null

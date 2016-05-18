@@ -1,0 +1,15 @@
+reference chromosomes:
+	Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ (total length: 1999618 bp, maximal covered length: 64236 bp)
+
+total genome size: 1999618
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+================================================================================================================
+meta_contigs_1_to_Lactob | 3.21241%  | 1.07588     | 9         | -         | -         | -         | -         |
+meta_contigs_2_to_Lactob | 3.14565%  | 1.00181     | 6         | -         | -         | -         | -         |

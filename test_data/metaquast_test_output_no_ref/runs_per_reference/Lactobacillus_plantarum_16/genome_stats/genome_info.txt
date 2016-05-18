@@ -1,0 +1,15 @@
+reference chromosomes:
+	Lactobacillus_plantarum_16_gi_513839884_ref_NC_ (total length: 3044678 bp, maximal covered length: 50351 bp)
+
+total genome size: 3044678
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+================================================================================================================
+meta_contigs_1_to_Lactob | 1.65374%  | 1.00042     | 3         | -         | -         | -         | -         |
+meta_contigs_2_to_Lactob | 1.65374%  | 1.00042     | 3         | -         | -         | -         | -         |

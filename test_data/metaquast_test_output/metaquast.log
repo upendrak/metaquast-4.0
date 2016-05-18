@@ -1,0 +1,75 @@
+/quast-release_4.0/metaquast.py -o metaquast_test_output -R meta_ref_1.fasta,meta_ref_2.fasta,meta_ref_3.fasta meta_contigs_1.fasta meta_contigs_2.fasta
+
+Version: 4.0
+
+System information:
+  OS: Linux-3.10.0-229.14.1.el7.x86_64-x86_64-with-Ubuntu-14.04-trusty (linux_64)
+  Python version: 2.7.6
+  CPUs number: 16
+
+Started: 2016-05-18 22:18:28
+
+Logging to /working-dir/metaquast_test_output/metaquast.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+Reference(s):
+  meta_ref_1.fasta ==> meta_ref_1
+  meta_ref_2.fasta ==> meta_ref_2
+  meta_ref_3.fasta ==> meta_ref_3
+  All references combined in combined_reference.fasta
+
+Contigs:
+  1  meta_contigs_1.fasta ==> meta_contigs_1
+  2  meta_contigs_2.fasta ==> meta_contigs_2
+
+Starting quast.py for the combined reference...
+(logging to /working-dir/metaquast_test_output/combined_reference/quast.log)
+
+Partitioning contigs into bins aligned to each reference..
+  processing meta_contigs_1
+  processing meta_contigs_2
+
+Starting quast.py for the contigs aligned to meta_ref_1
+(logging to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_1/quast.log)
+
+Starting quast.py for the contigs aligned to meta_ref_2
+(logging to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_2/quast.log)
+
+Starting quast.py for the contigs aligned to meta_ref_3
+(logging to /working-dir/metaquast_test_output/runs_per_reference/meta_ref_3/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere...
+(logging to /working-dir/metaquast_test_output/not_aligned/quast.log)
+
+2016-05-18 22:19:25
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+  Drawing Largest contig metaQUAST summary plot...
+  Drawing Total length metaQUAST summary plot...
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+  Drawing # misassemblies metaQUAST summary plot...
+  Drawing metaQUAST summary misassemblies plot for meta_contigs_1...
+  Drawing metaQUAST summary misassemblies plot for meta_contigs_2...
+  Drawing Misassembled contigs length metaQUAST summary plot...
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+  Drawing Genome fraction (%) metaQUAST summary plot...
+  Drawing Duplication ratio metaQUAST summary plot...
+  Drawing NGA50 metaQUAST summary plot...
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /working-dir/metaquast_test_output/summary/
+  Icarus (contig browser) is saved to /working-dir/metaquast_test_output/icarus.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /working-dir/metaquast_test_output/report.html
+
+MetaQUAST finished.
+  Log saved to /working-dir/metaquast_test_output/metaquast.log
+
+Finished: 2016-05-18 22:19:29
+Elapsed time: 0:01:01.131882
+Total NOTICEs: 12; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

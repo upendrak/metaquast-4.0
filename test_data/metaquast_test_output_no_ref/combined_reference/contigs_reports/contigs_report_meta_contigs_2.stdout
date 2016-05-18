@@ -1,0 +1,1135 @@
+Aligning contigs to reference...
+	Running Nucmer
+Parsing coords...
+Loading reference...
+	Loaded [Lactobacillus_brantae_gi_951581525_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581526_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581527_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581528_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581529_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581530_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581531_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581532_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581533_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581534_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581535_ref_NZ_]
+	Loaded [Lactobacillus_brantae_gi_951581536_ref_NZ_]
+	Loaded [Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_]
+	Loaded [Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_]
+	Loaded [Lactobacillus_plantarum_16_gi_513839884_ref_NC_]
+	Loaded [Lactobacillus_psittaci_gi_654312567_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312751_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654311744_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654311903_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654311985_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312032_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312084_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312110_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312131_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312154_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312170_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312193_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312213_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312217_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312220_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312224_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312225_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312227_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312228_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312230_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312231_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312233_ref_NZ_]
+	Loaded [Lactobacillus_psittaci_gi_654312234_ref_NZ_]
+	Loaded [Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_]
+	Loaded [Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321059_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321065_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321068_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321070_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321074_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321077_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321080_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321083_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321086_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321088_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321091_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321095_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321098_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321100_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321102_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321105_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321107_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321111_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321113_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321116_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321118_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321124_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321127_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321129_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321131_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321134_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321137_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321143_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321146_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321149_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321151_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321153_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321155_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321157_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321161_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321165_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321168_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321170_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321178_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321182_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321185_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321187_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321189_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321191_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321193_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321197_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321200_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321202_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321206_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321209_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321211_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321217_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321219_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321223_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321229_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321234_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321239_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321247_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321251_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321253_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321255_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321261_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321264_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321266_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321268_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321270_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321275_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321279_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321282_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321284_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321287_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321289_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321291_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321295_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321298_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321299_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321301_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321302_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321303_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321307_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321315_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321318_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321321_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321324_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321326_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321328_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321333_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321336_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321339_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321342_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321351_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321354_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321356_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321360_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321363_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321365_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321375_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321384_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321388_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321391_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321394_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321396_ref_NZ_]
+	Loaded [Lactobacillus_xiangfangensis_gi_951321400_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492680438_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492680917_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492681667_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492682130_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492683514_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492685247_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492686351_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492686619_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492678922_ref_NZ_]
+	Loaded [Pediococcus_acidilactici_D3_gi_492680084_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470948764_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949454_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949774_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950200_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950536_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951028_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951311_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951469_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951547_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470948875_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470948948_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470948977_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949057_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949089_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949209_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949239_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949295_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949342_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949373_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949468_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949494_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949531_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949532_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949571_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949606_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949641_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949690_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949734_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949748_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949827_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949841_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949866_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949882_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949936_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949982_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949998_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950045_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950115_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950155_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950300_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950339_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950372_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950386_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950408_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950430_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950451_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950478_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950508_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950752_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950830_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950870_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950889_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950912_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950935_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470950963_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951011_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951080_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951126_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951158_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951190_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951221_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951254_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951288_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951329_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951348_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951390_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951434_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951524_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470951617_ref_NZ_]
+	Loaded [Streptococcus_agalactiae_SS1219_gi_470949186_ref_NZ_]
+Loading SNPs...
+Loading regions...
+	No regions given, using whole reference.
+	Total Regions: 224
+	Total Region Length: 21154421
+Analyzing contigs...
+CONTIG: NODE_1_length_55421_cov_26.1146_ID_4744408 (55421bp)
+Top Length: 20822  Top ID: 99.23
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1341593 1342390 | 5350 4553 | 798 798 | 98.12 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1398230 1399027 | 5350 4553 | 798 798 | 98.12 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1340797 1341593 | 6421 5625 | 797 797 | 98.62 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1397435 1398230 | 6421 5625 | 796 797 | 98.24 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1863970 1872141 | 8193 1 | 8172 8193 | 99.45 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1831357 1848882 | 31918 14391 | 17526 17528 | 99.28 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1819939 1821400 | 33491 32031 | 1462 1461 | 99.93 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1809071 1818885 | 43846 34032 | 9815 9815 | 99.46 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1666194 1666293 | 44038 43939 | 100 100 | 99.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1849503 1849808 | 44040 43735 | 306 306 | 98.69 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1863030 1863335 | 44040 43735 | 306 306 | 98.37 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1065941 1066811 | 43191 44049 | 871 859 | 97.01 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1121056 1121918 | 43191 44049 | 863 859 | 96.87 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1795833 1807413 | 55421 43846 | 11581 11576 | 99.49 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1578140 1578837 | 55421 54724 | 698 698 | 96.01 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 680735 681410 | 54747 55421 | 676 675 | 96.61 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 820881 821563 | 54748 55421 | 683 674 | 96.49 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 688833 689509 | 54747 55421 | 677 675 | 96.32 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1597214 1597892 | 55421 54748 | 679 674 | 96.04 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1361122 1361797 | 55421 54748 | 676 674 | 96.02 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1417552 1418227 | 55421 54748 | 676 674 | 96.02 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1809794 1810448 | 55421 54769 | 655 653 | 98.02 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 44900 45533 | 54791 55421 | 634 631 | 98.42 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1544483 1545117 | 55421 54791 | 635 631 | 98.11 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 35571 36203 | 54791 55421 | 633 631 | 97.79 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1788246 1788865 | 55421 54803 | 620 619 | 98.71 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 806186 806766 | 54842 55421 | 581 580 | 99.14 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 788962 789542 | 54842 55421 | 581 580 | 99.14 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1528118 1528699 | 55421 54842 | 582 580 | 99.14 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		Skipping redundant alignment 1471789 1472370 | 55421 54842 | 582 580 | 98.45 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+		This contig is misassembled. 34 total aligns.
+			Real Alignment 1: 1851890 1864266 | 12368 1 | 12377 12368 | 99.57 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+			  Gap between these two alignments (local misassembly). Inconsistency = 330  
+			Real Alignment 2: 1850023 1851560 | 13905 12368 | 1538 1538 | 99.74 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+			  Extensive misassembly ( interspecies translocation ) between these two alignments
+			Real Alignment 3: 1841599 1862418 | 35212 14391 | 20820 20822 | 99.23 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+			  Extensive misassembly ( relocation, inconsistency = 1515 ) between these two alignments
+			Real Alignment 4: 1819861 1840092 | 55421 35204 | 20232 20218 | 98.74 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+
+CONTIG: NODE_2_length_49658_cov_2.58581_ID_2497514 (49658bp)
+Top Length: 49639  Top ID: 99.57
+		One align captures most of this contig: 1886298 1935935 | 1 49639 | 49638 49639 | 99.57 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_2_length_49658_cov_2.58581_ID_2497514
+
+CONTIG: NODE_3_length_27260_cov_310.524_ID_9332986 (27260bp)
+Top Length: 27260  Top ID: 99.97
+		Marking as insignificant: 1078579 1079641 | 1 1064 | 1063 1064 | 97.56 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 1169498 1170560 | 1 1064 | 1063 1064 | 97.65 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 681850 682915 | 1066 1 | 1066 1066 | 97.75 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 639248 640312 | 1066 1 | 1065 1066 | 97.84 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 1374246 1375378 | 1 1133 | 1133 1133 | 97.09 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 1524588 1525719 | 1 1133 | 1132 1133 | 97.88 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 623970 625131 | 1166 1 | 1162 1166 | 97.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 662688 663849 | 1166 1 | 1162 1166 | 97.08 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 346467 347632 | 1167 1 | 1166 1167 | 98.03 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 203232 204408 | 1179 1 | 1177 1179 | 97.88 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 177301 178477 | 1179 1 | 1177 1179 | 98.47 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 319134 329833 | 27207 16508 | 10700 10700 | 97.85 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		Marking as insignificant: 330028 344343 | 16469 2175 | 14316 14295 | 96.85 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+		One align captures most of this contig: 285882 313142 | 27260 1 | 27261 27260 | 99.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+
+CONTIG: NODE_4_length_16099_cov_310.325_ID_9343456 (16099bp)
+Top Length: 16099  Top ID: 100.0
+		Marking as insignificant: 985499 986269 | 96 866 | 771 771 | 98.57 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 476333 477105 | 867 95 | 773 773 | 98.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 76844 77617 | 93 866 | 774 774 | 99.1 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1952106 1952877 | 866 95 | 772 772 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 753325 754096 | 95 866 | 772 772 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1405220 1405991 | 95 866 | 772 772 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 549253 550025 | 94 866 | 773 773 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1056139 1056915 | 870 94 | 777 777 | 99.74 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1156637 1157412 | 866 91 | 776 776 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 794988 795763 | 91 866 | 776 776 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1425291 1426067 | 867 91 | 777 777 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1552553 1553328 | 91 866 | 776 776 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1186568 1187343 | 866 91 | 776 776 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 1032700 1033477 | 89 866 | 778 778 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 317919 319091 | 2006 864 | 1173 1143 | 95.23 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 287402 292714 | 16046 10733 | 5313 5314 | 99.29 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		Marking as insignificant: 296903 304503 | 10741 3138 | 7601 7604 | 96.59 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+		One align captures most of this contig: 267975 284073 | 16099 1 | 16099 16099 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+
+CONTIG: NODE_5_length_10428_cov_300.989_ID_9343584 (10428bp)
+Top Length: 10428  Top ID: 99.99
+		Marking as insignificant: 1123024 1124877 | 2973 4833 | 1854 1861 | 98.23 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_5_length_10428_cov_300.989_ID_9343584
+		Marking as insignificant: 1680657 1682511 | 2978 4832 | 1855 1855 | 98.76 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_5_length_10428_cov_300.989_ID_9343584
+		Marking as insignificant: 1473772 1475627 | 4832 2977 | 1856 1856 | 98.71 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_5_length_10428_cov_300.989_ID_9343584
+		Marking as insignificant: 277039 287402 | 10428 49 | 10364 10380 | 96.99 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_5_length_10428_cov_300.989_ID_9343584
+		One align captures most of this contig: 255740 266166 | 10428 1 | 10427 10428 | 99.99 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_5_length_10428_cov_300.989_ID_9343584
+
+CONTIG: NODE_6_length_6988_cov_303.415_ID_9341226 (6988bp)
+Top Length: 6988  Top ID: 99.91
+		Marking as insignificant: 355141 355232 | 3427 3336 | 92 92 | 97.83 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 320656 320747 | 3427 3336 | 92 92 | 98.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1314044 1314141 | 5357 5453 | 98 97 | 96.94 | Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 355057 355195 | 139 1 | 139 139 | 99.28 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1307388 1307541 | 5913 6066 | 154 154 | 95.45 | Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1162693 1162960 | 2797 3065 | 268 269 | 95.91 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 683500 683795 | 6988 6689 | 296 300 | 98.0 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 664434 664729 | 6988 6689 | 296 300 | 98.0 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1373366 1373661 | 6689 6988 | 296 300 | 98.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1523708 1524003 | 6689 6988 | 296 300 | 98.33 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 640897 641192 | 6988 6689 | 296 300 | 98.33 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 625716 626011 | 6988 6689 | 296 300 | 98.33 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 353943 354549 | 1360 755 | 607 606 | 98.02 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 352277 353950 | 3065 1392 | 1674 1674 | 96.0 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1000070 1002381 | 755 3065 | 2312 2311 | 96.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 687328 689640 | 3065 755 | 2313 2311 | 98.44 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 689652 691965 | 3065 755 | 2314 2311 | 98.49 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 670074 672387 | 754 3065 | 2314 2312 | 98.49 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 644761 647071 | 755 3072 | 2311 2318 | 98.92 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 683999 687253 | 6685 3431 | 3255 3255 | 99.69 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1520250 1523504 | 3431 6685 | 3255 3255 | 99.72 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 641396 644650 | 6685 3431 | 3255 3255 | 99.75 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1369908 1373162 | 3431 6685 | 3255 3255 | 99.85 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 664933 668224 | 6685 3393 | 3292 3293 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 626215 629505 | 6685 3393 | 3291 3293 | 99.42 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1074443 1077994 | 3432 6988 | 3552 3557 | 99.72 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 1165360 1168913 | 3431 6988 | 3554 3558 | 99.72 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 204993 208549 | 6988 3427 | 3557 3562 | 99.66 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 179062 182619 | 6988 3427 | 3558 3562 | 99.78 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		Marking as insignificant: 348217 352127 | 6988 3074 | 3911 3915 | 99.46 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+		One align captures most of this contig: 313727 320710 | 6988 1 | 6984 6988 | 99.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+
+CONTIG: NODE_7_length_3447_cov_44.4894_ID_2480336 (3447bp)
+Top Length: 3447  Top ID: 99.36
+		Marking as insignificant: 1308844 1308909 | 66 1 | 66 66 | 100.0 | Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 814369 814442 | 3374 3447 | 74 74 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 829169 829242 | 3374 3447 | 74 74 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1313970 1314051 | 1069 1150 | 82 82 | 98.78 | Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 690638 690790 | 1 153 | 153 153 | 99.35 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1794552 1794704 | 153 1 | 153 153 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1576859 1577011 | 153 1 | 153 153 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1359840 1359992 | 153 1 | 153 153 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1818580 1818732 | 153 1 | 153 153 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1573404 1576608 | 3368 165 | 3205 3204 | 99.31 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 691041 694245 | 165 3368 | 3205 3204 | 99.34 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1815046 1818329 | 3447 165 | 3284 3283 | 99.3 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1356306 1359589 | 3447 165 | 3284 3283 | 99.36 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1791017 1794300 | 3447 165 | 3284 3283 | 99.39 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 46662 50030 | 1 3368 | 3369 3368 | 99.23 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1592715 1596085 | 3368 1 | 3371 3368 | 99.23 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 822692 826062 | 1 3368 | 3371 3368 | 99.23 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1805296 1808665 | 3368 1 | 3370 3368 | 99.26 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 682539 685909 | 1 3368 | 3371 3368 | 99.26 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 807895 811263 | 1 3368 | 3369 3368 | 99.29 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 790671 794039 | 1 3368 | 3369 3368 | 99.29 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1539987 1543354 | 3368 1 | 3368 3368 | 99.35 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1783750 1787117 | 3368 1 | 3368 3368 | 99.44 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 37332 40698 | 1 3368 | 3367 3368 | 99.44 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1467288 1470660 | 3372 1 | 3373 3372 | 99.35 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		Marking as insignificant: 1523618 1526989 | 3372 1 | 3372 3372 | 99.38 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+		One align captures most of this contig: 1412976 1416423 | 3447 1 | 3448 3447 | 99.36 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+
+CONTIG: NODE_8_length_817_cov_651.256_ID_9343784 (817bp)
+Top Length: 817  Top ID: 99.51
+		Marking as insignificant: 1054785 1055040 | 34 289 | 256 256 | 96.48 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1037763 1038549 | 817 31 | 787 787 | 97.84 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1482886 1483675 | 28 817 | 790 790 | 98.1 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1403268 1404083 | 2 817 | 816 816 | 96.08 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1797180 1797996 | 1 817 | 817 817 | 97.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1741901 1742717 | 1 817 | 817 817 | 97.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1505432 1506248 | 817 1 | 817 817 | 97.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 771921 772737 | 817 1 | 817 817 | 97.8 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1746732 1747548 | 1 817 | 817 817 | 97.92 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1384685 1385501 | 817 1 | 817 817 | 97.92 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1454488 1455304 | 1 817 | 817 817 | 98.04 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1117544 1118360 | 1 817 | 817 817 | 98.04 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 652391 653207 | 817 1 | 817 817 | 98.04 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 578982 579798 | 817 1 | 817 817 | 98.04 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 188775 189591 | 817 1 | 817 817 | 98.04 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 1078613 1079429 | 817 1 | 817 817 | 98.16 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 967678 968494 | 817 1 | 817 817 | 98.16 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Marking as insignificant: 912096 912912 | 817 1 | 817 817 | 98.16 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		This contig has 9 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+		Alignment: 267213 268029 | 817 1 | 817 817 | 99.51 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 1302824 1303640 | 1 817 | 817 817 | 99.51 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 996823 997639 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 1024038 1024854 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 1152822 1153638 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 115319 116135 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 752511 753327 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 551681 552496 | 817 2 | 816 816 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+		Alignment: 285120 285936 | 817 1 | 817 817 | 98.65 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784
+
+CONTIG: NODE_9_length_729_cov_671.122_ID_9343806 (729bp)
+Top Length: 729  Top ID: 100.0
+		Marking as insignificant: 1404457 1405186 | 728 1 | 730 728 | 95.21 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1484049 1484769 | 728 7 | 721 722 | 98.48 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1455678 1456398 | 728 7 | 721 722 | 98.61 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 911002 911722 | 7 728 | 721 722 | 98.61 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1798370 1799091 | 728 7 | 722 722 | 98.75 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1743091 1743811 | 728 7 | 721 722 | 98.75 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 770826 771547 | 7 728 | 722 722 | 98.75 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 966580 967304 | 3 728 | 725 726 | 98.35 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1036667 1037389 | 6 728 | 723 723 | 98.76 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 998013 998733 | 728 8 | 721 721 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1383585 1384311 | 1 728 | 727 728 | 98.49 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1025228 1025949 | 728 7 | 722 722 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 550586 551307 | 7 728 | 722 722 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 577886 578608 | 5 728 | 723 724 | 99.17 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1504331 1505058 | 1 728 | 728 728 | 98.63 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1118734 1119461 | 728 1 | 728 728 | 98.76 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1304014 1304739 | 728 3 | 726 726 | 99.04 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 751410 752137 | 1 728 | 728 728 | 98.9 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 266112 266839 | 1 728 | 728 728 | 98.9 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1747922 1748647 | 728 2 | 726 727 | 99.17 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 1154012 1154738 | 728 2 | 727 727 | 99.17 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Marking as insignificant: 651290 652017 | 1 728 | 728 728 | 99.04 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		This contig has 4 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+		Alignment: 284019 284747 | 1 729 | 729 729 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Alignment: 114218 114945 | 1 728 | 728 728 | 99.18 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Alignment: 187675 188401 | 1 728 | 727 728 | 99.18 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+		Alignment: 1077512 1078239 | 1 728 | 728 728 | 99.18 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806
+
+CONTIG: NODE_10_length_714_cov_2.71927_ID_9333852 (714bp)
+Top Length: 714  Top ID: 99.02
+		Marking as insignificant: 219 294 | 469 544 | 76 76 | 100.0 | Lactobacillus_brantae_gi_951581525_ref_NZ_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 1080294 1080369 | 468 543 | 76 76 | 100.0 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 261 339 | 468 547 | 79 80 | 98.75 | Lactobacillus_xiangfangensis_gi_951321282_ref_NZ_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 85663 85941 | 620 341 | 279 280 | 97.14 | Lactobacillus_xiangfangensis_gi_951321279_ref_NZ_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 1880838 1881124 | 620 333 | 287 288 | 98.61 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 85895 86200 | 714 408 | 306 307 | 95.11 | Lactobacillus_xiangfangensis_gi_951321279_ref_NZ_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 2368 2812 | 1 445 | 445 445 | 97.31 | Lactobacillus_xiangfangensis_gi_951321118_ref_NZ_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 2779802 2780263 | 462 1 | 462 462 | 99.35 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 2352716 2353177 | 462 1 | 462 462 | 99.35 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 1079548 1080041 | 1 494 | 494 494 | 98.19 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+		Marking as insignificant: 518555 519048 | 1 494 | 494 494 | 98.19 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+		One align captures most of this contig: 1881071 1881783 | 714 1 | 713 714 | 99.02 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+
+CONTIG: NODE_11_length_694_cov_336.263_ID_9343406 (694bp)
+Top Length: 694  Top ID: 99.86
+		Marking as insignificant: 1309034 1309715 | 1 682 | 682 682 | 95.46 | Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_ NODE_11_length_694_cov_336.263_ID_9343406
+		Marking as insignificant: 245 938 | 1 694 | 694 694 | 95.83 | Lactobacillus_brantae_gi_951581534_ref_NZ_ NODE_11_length_694_cov_336.263_ID_9343406
+		This contig has 12 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+		Alignment: 640258 640951 | 694 1 | 694 694 | 99.86 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 313088 313781 | 694 1 | 694 694 | 99.71 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 625077 625770 | 694 1 | 694 694 | 99.71 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 1077940 1078633 | 1 694 | 694 694 | 99.57 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 1168859 1169552 | 1 694 | 694 694 | 99.57 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 347578 348271 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 663795 664488 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 682861 683554 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 1523949 1524642 | 1 694 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 178423 179116 | 694 1 | 694 694 | 99.28 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 1373607 1374300 | 1 694 | 694 694 | 99.28 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+		Alignment: 204354 205047 | 694 1 | 694 694 | 99.28 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406
+
+CONTIG: NODE_35_specially_unaligned (885bp)
+		This contig is unaligned. (885 bp)
+		Unaligned bases: 885  total: 885
+
+Analyzing coverage...
+Writing SNPs into /working-dir/metaquast_test_output_no_ref/combined_reference/contigs_reports/nucmer_output/raw/meta_contigs_2.used_snps
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321239_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321375_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321295_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581529_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321298_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312567_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470948875_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321070_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321223_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581534_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321116_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321351_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321137_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321365_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312131_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949827_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321187_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951011_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321124_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581525_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321400_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312231_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321197_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492682130_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321219_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949454_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312228_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321326_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321086_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581531_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492680917_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321299_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321161_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950935_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321182_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321107_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321134_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321102_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492681667_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321289_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951390_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321100_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951617_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321388_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492683514_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321209_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321088_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581535_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321268_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950045_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321394_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321247_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950478_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321261_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581532_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949468_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321287_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321363_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321339_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951028_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321059_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950430_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321191_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321336_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950386_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321328_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321151_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312084_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321113_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951158_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321083_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321264_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321315_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312234_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321251_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321118_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581527_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949373_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312154_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950912_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321185_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312217_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949606_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312170_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581526_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321065_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950155_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312225_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949641_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321098_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321129_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470948764_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321234_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321127_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321143_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321206_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321253_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949089_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321211_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321157_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654311903_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321321_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321131_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949295_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949998_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581530_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950408_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654311744_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321077_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654311985_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321105_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312193_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321301_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951080_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951311_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949774_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950889_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321255_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949239_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312224_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312751_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492686351_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321091_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321165_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492678922_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951254_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321396_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321202_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949209_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951434_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950451_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321080_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321384_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+	Reference Lactobacillus_plantarum_16_gi_513839884_ref_NC_: 2 total alignments. 1 total regions.
+		Region: 1 to 3044678 (3044678 bp)
+			START in gap: 1 to 1881071 (1881070 bp)
+			Align 1: 1881071 1881783 NODE_10_length_714_cov_2.71927_ID_9333852 714 1
+				Gap between this and next alignment: 1881783 to 1886298 (4514 bp)
+				Next Alignment: 1886298 1935935 NODE_2_length_49658_cov_2.58581_ID_2497514 1 49639
+
+			Align 2: 1886298 1935935 NODE_2_length_49658_cov_2.58581_ID_2497514 1 49639
+			END in gap: 1935935 to 3044678 (1108743 bp)
+
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321391_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492677564_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492686619_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949532_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321279_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950752_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950372_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321360_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321178_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949531_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951547_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492680438_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+	Reference Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_: 8 total alignments. 1 total regions.
+		Region: 1 to 2145445 (2145445 bp)
+			START in gap: 1 to 187675 (187674 bp)
+			Align 1: 187675 188401 NODE_9_length_729_cov_671.122_ID_9343806 1 728
+				Gap between this and next alignment: 188401 to 204354 (15952 bp)
+				Next Alignment: 204354 205047 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 2: 204354 205047 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 205047 to 347578 (142530 bp)
+				Next Alignment: 347578 348271 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 3: 347578 348271 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 348271 to 663795 (315523 bp)
+				Next Alignment: 663795 664488 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 4: 663795 664488 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 664488 to 682861 (18372 bp)
+				Next Alignment: 682861 683554 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 5: 682861 683554 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 683554 to 1077512 (393957 bp)
+				Next Alignment: 1077512 1078239 NODE_9_length_729_cov_671.122_ID_9343806 1 728
+
+			Align 6: 1077512 1078239 NODE_9_length_729_cov_671.122_ID_9343806 1 728
+				Gap between this and next alignment: 1078239 to 1168859 (90619 bp)
+				Next Alignment: 1168859 1169552 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+
+			Align 7: 1168859 1169552 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+				Gap between this and next alignment: 1169552 to 1523949 (354396 bp)
+				Next Alignment: 1523949 1524642 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+
+			Align 8: 1523949 1524642 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+			END in gap: 1524642 to 2145445 (620803 bp)
+
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950339_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581528_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321275_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951348_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951221_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950963_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321074_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950830_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+	Reference Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_: 21 total alignments. 1 total regions.
+		Region: 1 to 1999618 (1999618 bp)
+			START in gap: 1 to 114218 (114217 bp)
+			Align 1: 114218 114945 NODE_9_length_729_cov_671.122_ID_9343806 1 728
+				Gap between this and next alignment: 114945 to 115319 (373 bp)
+				Next Alignment: 115319 116135 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+
+			Align 2: 115319 116135 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+				Gap between this and next alignment: 116135 to 178423 (62287 bp)
+				Next Alignment: 178423 179116 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 3: 178423 179116 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 179116 to 255740 (76623 bp)
+				Next Alignment: 255740 266166 NODE_5_length_10428_cov_300.989_ID_9343584 10428 1
+
+			Align 4: 255740 266166 NODE_5_length_10428_cov_300.989_ID_9343584 10428 1
+				Gap between this and next alignment: 266166 to 267213 (1046 bp)
+				Next Alignment: 267213 268029 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+
+			Align 5: 267213 268029 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+				Negative gap (overlap) between this and next alignment: 268029 to 267975 (-54 bp)
+				Next Alignment: 267975 284073 NODE_4_length_16099_cov_310.325_ID_9343456 16099 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 16099 to 16044.
+			Align 6: 268030 284073 NODE_4_length_16099_cov_310.325_ID_9343456 16044 1
+				Negative gap (overlap) between this and next alignment: 284073 to 284019 (-54 bp)
+				Next Alignment: 284019 284747 NODE_9_length_729_cov_671.122_ID_9343806 1 729
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 56.
+			Align 7: 284074 284747 NODE_9_length_729_cov_671.122_ID_9343806 56 729
+				Gap between this and next alignment: 284747 to 285120 (372 bp)
+				Next Alignment: 285120 285936 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+
+			Align 8: 285120 285936 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+				Negative gap (overlap) between this and next alignment: 285936 to 285882 (-54 bp)
+				Next Alignment: 285882 313142 NODE_3_length_27260_cov_310.524_ID_9332986 27260 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 27260 to 27205.
+			Align 9: 285937 313142 NODE_3_length_27260_cov_310.524_ID_9332986 27205 1
+				Negative gap (overlap) between this and next alignment: 313142 to 313088 (-54 bp)
+				Next Alignment: 313088 313781 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 694 to 639.
+			Align 10: 313143 313781 NODE_11_length_694_cov_336.263_ID_9343406 639 1
+				Negative gap (overlap) between this and next alignment: 313781 to 313727 (-54 bp)
+				Next Alignment: 313727 320710 NODE_6_length_6988_cov_303.415_ID_9341226 6988 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 6988 to 6933.
+			Align 11: 313782 320710 NODE_6_length_6988_cov_303.415_ID_9341226 6933 1
+				Gap between this and next alignment: 320710 to 551681 (230970 bp)
+				Next Alignment: 551681 552496 NODE_8_length_817_cov_651.256_ID_9343784 817 2
+
+			Align 12: 551681 552496 NODE_8_length_817_cov_651.256_ID_9343784 817 2
+				Gap between this and next alignment: 552496 to 625077 (72580 bp)
+				Next Alignment: 625077 625770 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 13: 625077 625770 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 625770 to 640258 (14487 bp)
+				Next Alignment: 640258 640951 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+
+			Align 14: 640258 640951 NODE_11_length_694_cov_336.263_ID_9343406 694 1
+				Gap between this and next alignment: 640951 to 752511 (111559 bp)
+				Next Alignment: 752511 753327 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+
+			Align 15: 752511 753327 NODE_8_length_817_cov_651.256_ID_9343784 817 1
+				Gap between this and next alignment: 753327 to 996823 (243495 bp)
+				Next Alignment: 996823 997639 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+
+			Align 16: 996823 997639 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+				Gap between this and next alignment: 997639 to 1024038 (26398 bp)
+				Next Alignment: 1024038 1024854 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+
+			Align 17: 1024038 1024854 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+				Gap between this and next alignment: 1024854 to 1077940 (53085 bp)
+				Next Alignment: 1077940 1078633 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+
+			Align 18: 1077940 1078633 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+				Gap between this and next alignment: 1078633 to 1152822 (74188 bp)
+				Next Alignment: 1152822 1153638 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+
+			Align 19: 1152822 1153638 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+				Gap between this and next alignment: 1153638 to 1302824 (149185 bp)
+				Next Alignment: 1302824 1303640 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+
+			Align 20: 1302824 1303640 NODE_8_length_817_cov_651.256_ID_9343784 1 817
+				Gap between this and next alignment: 1303640 to 1373607 (69966 bp)
+				Next Alignment: 1373607 1374300 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+
+			Align 21: 1373607 1374300 NODE_11_length_694_cov_336.263_ID_9343406 1 694
+			END in gap: 1374300 to 1999618 (625318 bp)
+
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321307_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949936_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321291_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321324_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+	Reference Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_: 2 total alignments. 1 total regions.
+		Region: 1 to 1864998 (1864998 bp)
+			START in gap: 1 to 1850023 (1850022 bp)
+			Align 1: 1850023 1851560 NODE_1_length_55421_cov_26.1146_ID_4744408 13905 12368
+				Gap between this and next alignment: 1851560 to 1851890 (329 bp)
+				Next Alignment: 1851890 1864266 NODE_1_length_55421_cov_26.1146_ID_4744408 12368 1
+
+			Align 2: 1851890 1864266 NODE_1_length_55421_cov_26.1146_ID_4744408 12368 1
+			END in gap: 1864266 to 1864998 (732 bp)
+
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950200_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+	Reference Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_: 3 total alignments. 1 total regions.
+		Region: 1 to 1872918 (1872918 bp)
+			START in gap: 1 to 1412976 (1412975 bp)
+			Align 1: 1412976 1416423 NODE_7_length_3447_cov_44.4894_ID_2480336 3447 1
+				Gap between this and next alignment: 1416423 to 1819861 (403437 bp)
+				Next Alignment: 1819861 1840092 NODE_1_length_55421_cov_26.1146_ID_4744408 55421 35204
+
+			Align 2: 1819861 1840092 NODE_1_length_55421_cov_26.1146_ID_4744408 55421 35204
+				Gap between this and next alignment: 1840092 to 1841599 (1506 bp)
+				Next Alignment: 1841599 1862418 NODE_1_length_55421_cov_26.1146_ID_4744408 35212 14391
+
+			Align 3: 1841599 1862418 NODE_1_length_55421_cov_26.1146_ID_4744408 35212 14391
+			END in gap: 1862418 to 1872918 (10500 bp)
+
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950536_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321200_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949342_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321284_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312032_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321095_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312230_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581533_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470948977_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949866_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492685247_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949690_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951190_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321153_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321111_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321170_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_brantae_gi_951581536_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470948948_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321189_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951126_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949841_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321266_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312220_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321193_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321282_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949748_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312233_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949057_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321318_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321146_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321270_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321356_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312213_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321342_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321303_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951524_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949571_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321229_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321217_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951469_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321354_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321333_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950115_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321149_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321068_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949882_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949734_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949982_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312227_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950870_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951288_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950300_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321302_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_psittaci_gi_654312110_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949494_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470951329_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Pediococcus_acidilactici_D3_gi_492680084_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470949186_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321155_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Lactobacillus_xiangfangensis_gi_951321168_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+ERROR: Reference Streptococcus_agalactiae_SS1219_gi_470950508_ref_NZ_ does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_', 'Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_', 'Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_', 'Lactobacillus_plantarum_16_gi_513839884_ref_NC_', 'Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_']
+Analysis is finished!
+Founded SNPs were written into /working-dir/metaquast_test_output_no_ref/combined_reference/contigs_reports/nucmer_output/raw/meta_contigs_2.used_snps
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 2
+		Relocations: 1
+		Translocations: 0
+		Interspecies translocations: 1
+		Inversions: 0
+	Potentially Misassembled Contigs (i/s translocations): 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 55421
+	Misassemblies Inter-Contig Overlap: 10
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 1 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 885
+
+Ambiguously Mapped Contigs: 3
+Extra Bases in Ambiguously Mapped Contigs: 16353
+Note that --allow-ambiguity option was set to "all" and each of these contigs was used several times.
+
+	Covered Bases: 187854
+
+	SNPs: 719
+	Insertions: 52
+	Deletions: 67
+
+	Positive Gaps: 36
+		Internal Gaps:  10
+		External Gaps:  26
+		External Gap Total:  9473582
+		External Gap Average: 364369
+	Negative Gaps: 5
+		Internal Overlaps:  0
+		External Overlaps:  5
+		External Overlaps Total: -270
+		External Overlaps Average: -54
+	Contigs with Redundant Alignments: 0 (0)

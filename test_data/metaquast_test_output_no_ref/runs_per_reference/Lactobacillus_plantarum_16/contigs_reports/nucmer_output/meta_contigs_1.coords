@@ -1,0 +1,10 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  518555   519048  |      714      221  |      494      494  |    98.19  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 1079548  1080041  |      714      221  |      494      494  |    98.19  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 1080294  1080369  |      247      172  |       76       76  |   100.00  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 1880838  1881124  |       95      382  |      287      288  |    98.61  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 1881071  1881783  |        1      714  |      713      714  |    99.02  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 2352716  2353177  |      253      714  |      462      462  |    99.35  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 2779802  2780263  |      253      714  |      462      462  |    99.35  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_18_length_714_cov_2.71927
+ 1886298  1935935  |    49658       20  |    49638    49639  |    99.57  | Lactobacillus_plantarum_16_gi_513839884_ref_NC_	NODE_6_length_49658_cov_2.58581

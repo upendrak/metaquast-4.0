@@ -1,0 +1,6 @@
+Assemblies                                             meta_contigs_1  meta_contigs_2
+Lactobacillus_delbrueckii_subsp_bulgaricus_2038        1.120           1.118         
+Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842  1.020           1.021         
+Lactobacillus_plantarum_16                             1.000           1.000         
+Lactobacillus_reuteri_DSM_20016                        1.076           1.002         
+Lactobacillus_reuteri_TD1                              1.388           1.001         

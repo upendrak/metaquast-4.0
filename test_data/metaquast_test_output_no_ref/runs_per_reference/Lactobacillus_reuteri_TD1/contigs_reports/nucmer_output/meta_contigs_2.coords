@@ -1,0 +1,23 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  204354   205047  |      694        1  |      694      694  |    99.28  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_11_length_694_cov_336.263_ID_9343406
+  347578   348271  |      694        1  |      694      694  |    99.42  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_11_length_694_cov_336.263_ID_9343406
+  663795   664488  |      694        1  |      694      694  |    99.42  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_11_length_694_cov_336.263_ID_9343406
+  682861   683554  |      694        1  |      694      694  |    99.42  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_11_length_694_cov_336.263_ID_9343406
+ 1168859  1169552  |        1      694  |      694      694  |    99.57  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_11_length_694_cov_336.263_ID_9343406
+ 1523949  1524642  |        1      694  |      694      694  |    99.42  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_11_length_694_cov_336.263_ID_9343406
+  187675   188401  |        1      728  |      727      728  |    99.18  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+  577886   578608  |        5      728  |      723      724  |    99.17  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+  651290   652017  |        1      728  |      728      728  |    99.04  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+  770826   771547  |        7      728  |      722      722  |    98.75  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+  911002   911722  |        7      728  |      721      722  |    98.61  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+  966580   967304  |        3      728  |      725      726  |    98.35  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1036667  1037389  |        6      728  |      723      723  |    98.76  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1077512  1078239  |        1      728  |      728      728  |    99.18  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1118734  1119461  |      728        1  |      728      728  |    98.76  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1383585  1384311  |        1      728  |      727      728  |    98.49  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1455678  1456398  |      728        7  |      721      722  |    98.61  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1504331  1505058  |        1      728  |      728      728  |    98.63  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1743091  1743811  |      728        7  |      721      722  |    98.75  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1747922  1748647  |      728        2  |      726      727  |    99.17  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806
+ 1798370  1799091  |      728        7  |      722      722  |    98.75  | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_	NODE_9_length_729_cov_671.122_ID_9343806

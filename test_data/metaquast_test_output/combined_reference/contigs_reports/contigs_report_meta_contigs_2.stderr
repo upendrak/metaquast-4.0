@@ -1,0 +1,15 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/working-dir/metaquast_test_output/combined_reference/contigs_reports/nucmer_output/meta_contigs_2.ntref" of length 180000
+# construct suffix tree for sequence of length 180000
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 1800 characters per dot
+#...................................................................................................
+# CONSTRUCTIONTIME /quast-release_4.0/libs/MUMmer3.23-linux/mummer /working-dir/metaquast_test_output/combined_reference/contigs_reports/nucmer_output/meta_contigs_2.ntref 0.03
+# reading input file "/working-dir/metaquast_test_output/combined_reference/../quast_corrected_input/meta_contigs_2.fasta" of length 173151
+# matching query-file "/working-dir/metaquast_test_output/combined_reference/../quast_corrected_input/meta_contigs_2.fasta"
+# against subject-file "/working-dir/metaquast_test_output/combined_reference/contigs_reports/nucmer_output/meta_contigs_2.ntref"
+# COMPLETETIME /quast-release_4.0/libs/MUMmer3.23-linux/mummer /working-dir/metaquast_test_output/combined_reference/contigs_reports/nucmer_output/meta_contigs_2.ntref 0.10
+# SPACE /quast-release_4.0/libs/MUMmer3.23-linux/mummer /working-dir/metaquast_test_output/combined_reference/contigs_reports/nucmer_output/meta_contigs_2.ntref 0.34
+4: FINISHING DATA

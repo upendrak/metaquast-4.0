@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous
+CONTIG	NODE_2_length_49658_cov_2.58581_ID_2497514	49658
+5305	54962	1	49658	meta_ref_1_Lactobacillus_planta	NODE_2_length_49658_cov_2.58581_ID_2497514	99.98	
+CONTIG	NODE_10_length_714_cov_2.71927_ID_9333852	714
+78	791	714	1	meta_ref_1_Lactobacillus_planta	NODE_10_length_714_cov_2.71927_ID_9333852	99.86	

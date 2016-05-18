@@ -1,0 +1,183 @@
+Aligning contigs to reference...
+	Running Nucmer
+Parsing coords...
+Loading reference...
+	Loaded [Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_]
+Loading SNPs...
+Loading regions...
+	No regions given, using whole reference.
+	Total Regions: 1
+	Total Region Length: 1864998
+Analyzing contigs...
+CONTIG: NODE_9_length_637_cov_25.4296 (637bp)
+Top Length: 637  Top ID: 99.84
+		This contig has 9 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 47757 48393 | 1 637 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  691972 692608 | 1 637 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  1358022 1358658 | 637 1 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  1468929 1469565 | 637 1 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  1785386 1786022 | 637 1 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  1792733 1793369 | 637 1 | 637 637 | 99.84 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  808990 809626 | 1 637 | 637 637 | 99.69 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  1541623 1542259 | 637 1 | 637 637 | 99.69 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+		Skipping alignment  1575041 1575677 | 637 1 | 637 637 | 99.69 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_9_length_637_cov_25.4296
+
+CONTIG: NODE_15_length_55106_cov_26.0999 (55106bp)
+Top Length: 17528  Top ID: 99.28
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 806186 806451 | 265 1 | 266 265 | 98.87 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1472104 1472370 | 1 265 | 267 265 | 98.13 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1788561 1788865 | 1 304 | 305 304 | 97.39 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 44900 45218 | 316 1 | 319 316 | 97.49 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1544798 1545117 | 1 316 | 320 316 | 96.88 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1666194 1666293 | 11069 11168 | 100 100 | 99.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1849503 1849808 | 11067 11372 | 306 306 | 98.69 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1065941 1066811 | 11916 11058 | 871 859 | 97.01 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1340797 1341593 | 48686 49482 | 797 797 | 98.62 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		Skipping redundant alignment 1341593 1342390 | 49757 50554 | 798 798 | 98.12 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		This contig is misassembled. 16 total aligns.
+			Excluding internal overlap of size 1 between Alignment 1 and 2:  1809071 1818885 | 11261 21075 | 9815 9815 --> 1809072 1818885 | 11262 21075 | 9814 9814
+			Real Alignment 1: 1796148 1807413 | 1 11261 | 11266 11261 | 99.48 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+			  Extensive misassembly ( relocation, inconsistency = 1658 ) between these two alignments
+			Real Alignment 2: 1809072 1818885 | 11262 21075 | 9814 9814 | 99.46 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+			  Gap between these two alignments (local misassembly). Inconsistency = 513  
+			Real Alignment 3: 1819939 1821400 | 21616 23076 | 1462 1461 | 99.93 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+			  Extensive misassembly ( relocation, inconsistency = 9844 ) between these two alignments
+			Real Alignment 4: 1831357 1848882 | 23189 40716 | 17526 17528 | 99.28 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+			  Gap between these two alignments (local misassembly). Inconsistency = 655  
+			Excluding internal overlap of size 1 between Alignment 5 and 6:  1850023 1851560 | 41202 42739 | 1538 1538 --> 1850023 1851559 | 41202 42738 | 1537 1537
+			Real Alignment 5: 1850023 1851559 | 41202 42738 | 1537 1537 | 99.74 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+			  Gap between these two alignments (local misassembly). Inconsistency = 330  
+			Real Alignment 6: 1851890 1864266 | 42739 55106 | 12377 12368 | 99.57 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_15_length_55106_cov_26.0999
+		This contig has significant unaligned parts (of length >= 500)! It can contain interspecies translocations
+
+CONTIG: NODE_33_length_929_cov_25.7529 (929bp)
+Top Length: 929  Top ID: 99.89
+		This contig has 9 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 809572 810500 | 929 1 | 929 929 | 99.89 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  1357148 1358076 | 1 929 | 929 929 | 99.89 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  1468055 1468983 | 1 929 | 929 929 | 99.89 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  1784512 1785440 | 1 929 | 929 929 | 99.89 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  1791859 1792787 | 1 929 | 929 929 | 99.89 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  48339 49267 | 929 1 | 929 929 | 99.78 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  692554 693482 | 929 1 | 929 929 | 99.78 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  1540749 1541677 | 1 929 | 929 929 | 99.78 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+		Skipping alignment  1574167 1575095 | 1 929 | 929 929 | 99.68 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_33_length_929_cov_25.7529
+
+CONTIG: NODE_35_length_850_cov_25.8629 (850bp)
+Top Length: 850  Top ID: 98.0
+		Marking as insignificant: 814369 814442 | 74 1 | 74 74 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 49259 50030 | 850 80 | 772 771 | 97.67 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 1573404 1574175 | 80 850 | 772 771 | 97.8 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 810492 811263 | 850 80 | 772 771 | 97.8 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 693474 694245 | 850 80 | 772 771 | 97.8 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 1783750 1784520 | 80 850 | 771 771 | 98.05 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 1539987 1540757 | 80 850 | 771 771 | 98.05 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Marking as insignificant: 1467288 1468063 | 76 850 | 776 775 | 97.68 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 1791017 1791867 | 1 850 | 851 850 | 98.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+		Skipping alignment  1356306 1357156 | 1 850 | 851 850 | 97.88 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_35_length_850_cov_25.8629
+
+CONTIG: NODE_39_length_1141_cov_25.1602 (1141bp)
+Top Length: 1141  Top ID: 99.82
+		Marking as insignificant: 690647 690790 | 1141 998 | 144 144 | 99.31 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 1794552 1794695 | 998 1141 | 144 144 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 1576859 1577002 | 998 1141 | 144 144 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 1359840 1359983 | 998 1141 | 144 144 | 100.0 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 1793315 1794300 | 1 986 | 986 986 | 99.9 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 1575623 1576608 | 1 986 | 986 986 | 99.9 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 1358604 1359589 | 1 986 | 986 986 | 99.9 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Marking as insignificant: 691041 692026 | 986 1 | 986 986 | 99.9 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		This contig has 5 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 1469511 1470651 | 1 1141 | 1141 1141 | 99.82 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Skipping alignment  1785968 1787108 | 1 1141 | 1141 1141 | 99.82 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Skipping alignment  1542205 1543345 | 1 1141 | 1141 1141 | 99.74 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Skipping alignment  807904 809044 | 1141 1 | 1141 1141 | 99.65 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+		Skipping alignment  46671 47811 | 1141 1 | 1141 1141 | 99.56 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_39_length_1141_cov_25.1602
+
+Analyzing coverage...
+Writing SNPs into /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842/contigs_reports/nucmer_output/meta_contigs_1.used_snps
+	Reference Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_: 10 total alignments. 1 total regions.
+		Region: 1 to 1864998 (1864998 bp)
+			START in gap: 1 to 47757 (47756 bp)
+			Align 1: 47757 48393 NODE_9_length_637_cov_25.4296 1 637
+				Gap between this and next alignment: 48393 to 809572 (761178 bp)
+				Next Alignment: 809572 810500 NODE_33_length_929_cov_25.7529 929 1
+
+			Align 2: 809572 810500 NODE_33_length_929_cov_25.7529 929 1
+				Gap between this and next alignment: 810500 to 1469511 (659010 bp)
+				Next Alignment: 1469511 1470651 NODE_39_length_1141_cov_25.1602 1 1141
+
+			Align 3: 1469511 1470651 NODE_39_length_1141_cov_25.1602 1 1141
+				Gap between this and next alignment: 1470651 to 1791017 (320365 bp)
+				Next Alignment: 1791017 1791867 NODE_35_length_850_cov_25.8629 1 850
+
+			Align 4: 1791017 1791867 NODE_35_length_850_cov_25.8629 1 850
+				Gap between this and next alignment: 1791867 to 1796148 (4280 bp)
+				Next Alignment: 1796148 1807413 NODE_15_length_55106_cov_26.0999 1 11261
+
+			Align 5: 1796148 1807413 NODE_15_length_55106_cov_26.0999 1 11261
+				Gap between this and next alignment: 1807413 to 1809072 (1658 bp)
+				Next Alignment: 1809072 1818885 NODE_15_length_55106_cov_26.0999 11262 21075
+
+			Align 6: 1809072 1818885 NODE_15_length_55106_cov_26.0999 11262 21075
+				Gap between this and next alignment: 1818885 to 1819939 (1053 bp)
+				Next Alignment: 1819939 1821400 NODE_15_length_55106_cov_26.0999 21616 23076
+
+			Align 7: 1819939 1821400 NODE_15_length_55106_cov_26.0999 21616 23076
+				Gap between this and next alignment: 1821400 to 1831357 (9956 bp)
+				Next Alignment: 1831357 1848882 NODE_15_length_55106_cov_26.0999 23189 40716
+
+			Align 8: 1831357 1848882 NODE_15_length_55106_cov_26.0999 23189 40716
+				Gap between this and next alignment: 1848882 to 1850023 (1140 bp)
+				Next Alignment: 1850023 1851559 NODE_15_length_55106_cov_26.0999 41202 42738
+
+			Align 9: 1850023 1851559 NODE_15_length_55106_cov_26.0999 41202 42738
+				Gap between this and next alignment: 1851559 to 1851890 (330 bp)
+				Next Alignment: 1851890 1864266 NODE_15_length_55106_cov_26.0999 42739 55106
+
+			Align 10: 1851890 1864266 NODE_15_length_55106_cov_26.0999 42739 55106
+			END in gap: 1864266 to 1864998 (732 bp)
+
+Analysis is finished!
+Founded SNPs were written into /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842/contigs_reports/nucmer_output/meta_contigs_1.used_snps
+
+Results:
+	Local Misassemblies: 3
+	Misassemblies: 2
+		Relocations: 2
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 55106
+	Misassemblies Inter-Contig Overlap: 2
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 4
+Total Bases in Ambiguously Mapped Contigs: 3557
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 57540
+
+	SNPs: 284
+	Insertions: 9
+	Deletions: 23
+
+	Positive Gaps: 11
+		Internal Gaps:  5
+		External Gaps:  6
+		External Gap Total:  1793321
+		External Gap Average: 298887
+	Negative Gaps: 0
+		Internal Overlaps:  0
+		External Overlaps:  0
+		External Overlaps Total:  0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

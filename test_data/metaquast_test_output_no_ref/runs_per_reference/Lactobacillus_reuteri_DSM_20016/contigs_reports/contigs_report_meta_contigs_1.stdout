@@ -1,0 +1,246 @@
+Aligning contigs to reference...
+	Running Nucmer
+Parsing coords...
+Loading reference...
+	Loaded [Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_]
+Loading SNPs...
+Loading regions...
+	No regions given, using whole reference.
+	Total Regions: 1
+	Total Region Length: 1999618
+Analyzing contigs...
+CONTIG: NODE_25_length_832_cov_317.008 (832bp)
+Top Length: 832  Top ID: 99.52
+		Marking as insignificant: 1373366 1373609 | 248 1 | 244 248 | 97.58 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 640949 641192 | 1 248 | 244 248 | 97.98 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 625768 626011 | 1 248 | 244 248 | 97.98 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 1372582 1373162 | 832 252 | 581 581 | 99.83 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 641396 641976 | 252 832 | 581 581 | 99.83 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Marking as insignificant: 626215 626795 | 252 832 | 581 581 | 99.83 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 313779 314606 | 1 832 | 828 832 | 99.52 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Skipping alignment  179114 179941 | 1 832 | 828 832 | 99.4 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+		Skipping alignment  1077115 1077942 | 832 1 | 828 832 | 99.4 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_25_length_832_cov_317.008
+
+CONTIG: NODE_30_length_694_cov_43.795 (694bp)
+Top Length: 694  Top ID: 99.42
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 640258 640951 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  313088 313781 | 694 1 | 694 694 | 99.28 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  625077 625770 | 694 1 | 694 694 | 99.28 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  1077940 1078633 | 1 694 | 694 694 | 99.14 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  178423 179116 | 694 1 | 694 694 | 98.85 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_30_length_694_cov_43.795
+		Skipping alignment  1373607 1374300 | 1 694 | 694 694 | 98.85 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_30_length_694_cov_43.795
+
+CONTIG: NODE_32_length_1057_cov_298.503 (1057bp)
+Top Length: 1057  Top ID: 99.91
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 181146 182202 | 1057 1 | 1057 1057 | 99.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  315811 316867 | 1057 1 | 1057 1057 | 99.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  1074854 1075910 | 1 1057 | 1057 1057 | 99.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  1370321 1371377 | 1 1057 | 1057 1057 | 99.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  628000 629056 | 1057 1 | 1057 1057 | 99.81 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_32_length_1057_cov_298.503
+		Skipping alignment  643181 644237 | 1057 1 | 1057 1057 | 99.81 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_32_length_1057_cov_298.503
+
+CONTIG: NODE_34_length_3898_cov_294.65 (3898bp)
+Top Length: 3898  Top ID: 99.97
+		Marking as insignificant: 320656 320747 | 3427 3336 | 92 92 | 98.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		Marking as insignificant: 644183 644650 | 3898 3431 | 468 468 | 99.57 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		Marking as insignificant: 1074443 1074908 | 3432 3898 | 466 467 | 99.79 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		Marking as insignificant: 1369908 1370375 | 3431 3898 | 468 468 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		Marking as insignificant: 182148 182619 | 3898 3427 | 472 472 | 99.58 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		Marking as insignificant: 629002 629505 | 3898 3393 | 504 506 | 97.43 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		Marking as insignificant: 644761 647071 | 755 3072 | 2311 2318 | 98.92 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+		One align captures most of this contig: 316813 320710 | 3898 1 | 3898 3898 | 99.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_34_length_3898_cov_294.65
+
+CONTIG: NODE_37_length_747_cov_199.488 (747bp)
+Top Length: 747  Top ID: 99.87
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 640205 640951 | 747 1 | 747 747 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  313035 313781 | 747 1 | 747 747 | 99.73 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  625024 625770 | 747 1 | 747 747 | 99.73 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  1077940 1078686 | 1 747 | 747 747 | 99.6 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  178370 179116 | 747 1 | 747 747 | 99.33 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_37_length_747_cov_199.488
+		Skipping alignment  1373607 1374353 | 1 747 | 747 747 | 99.33 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_37_length_747_cov_199.488
+
+CONTIG: NODE_38_length_862_cov_88.5167 (862bp)
+Top Length: 862  Top ID: 97.45
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 640090 640951 | 862 1 | 862 862 | 97.45 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  312920 313781 | 862 1 | 862 862 | 97.33 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  624909 625770 | 862 1 | 862 862 | 97.33 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  1077940 1078801 | 1 862 | 862 862 | 97.22 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  178255 179116 | 862 1 | 862 862 | 96.99 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_38_length_862_cov_88.5167
+		Skipping alignment  1373607 1374468 | 1 862 | 862 862 | 96.99 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_38_length_862_cov_88.5167
+
+CONTIG: NODE_40_length_987_cov_309.523 (987bp)
+Top Length: 987  Top ID: 100.0
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+		Alignment: 179887 180873 | 987 1 | 987 987 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  314552 315538 | 987 1 | 987 987 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  626741 627727 | 987 1 | 987 987 | 99.8 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  641922 642908 | 987 1 | 987 987 | 99.8 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  1076183 1077169 | 1 987 | 987 987 | 99.8 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_40_length_987_cov_309.523
+		Skipping alignment  1371650 1372636 | 1 987 | 987 987 | 99.8 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_40_length_987_cov_309.523
+
+CONTIG: NODE_41_length_17535_cov_311.913 (17535bp)
+Top Length: 17534  Top ID: 99.97
+		Marking as insignificant: 1054785 1055040 | 784 529 | 256 256 | 96.48 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1484049 1484769 | 17534 16813 | 721 722 | 98.48 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1025228 1025949 | 17534 16813 | 722 722 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 550586 551307 | 16813 17534 | 722 722 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1304014 1304739 | 17534 16809 | 726 726 | 99.04 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 266112 266839 | 16807 17534 | 728 728 | 98.9 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1154012 1154738 | 17534 16808 | 727 727 | 99.17 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 751409 752137 | 16806 17534 | 729 729 | 98.9 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 114218 114945 | 16807 17534 | 728 728 | 99.18 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 998013 998744 | 17534 16804 | 732 731 | 98.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 476333 477105 | 15995 16767 | 773 773 | 98.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 76844 77617 | 16769 15996 | 774 774 | 99.1 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1952106 1952877 | 15996 16767 | 772 772 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 753325 754096 | 16767 15996 | 772 772 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 549253 550025 | 16768 15996 | 773 773 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1482886 1483675 | 790 1 | 790 790 | 97.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1056139 1056915 | 15992 16768 | 777 777 | 99.74 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1156637 1157412 | 15996 16771 | 776 776 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 794988 795763 | 16771 15996 | 776 776 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1425291 1426067 | 15995 16771 | 777 777 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1552553 1553328 | 16771 15996 | 776 776 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1186568 1187343 | 15996 16771 | 776 776 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1032700 1033477 | 16773 15996 | 778 778 | 99.87 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1403268 1404083 | 816 1 | 816 816 | 95.96 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 285120 285936 | 1 817 | 817 817 | 98.65 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 551681 552496 | 1 816 | 816 816 | 99.26 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 752511 753327 | 1 817 | 817 817 | 99.14 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1152822 1153638 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1024038 1024854 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 996823 997639 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1302824 1303640 | 817 1 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 115319 116137 | 1 819 | 819 819 | 99.15 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		Marking as insignificant: 1404457 1405991 | 17534 15996 | 1535 1539 | 96.17 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+		One align captures most of this contig: 267213 284746 | 1 17534 | 17534 17534 | 99.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_41_length_17535_cov_311.913
+
+CONTIG: NODE_42_length_11102_cov_303.126 (11102bp)
+Top Length: 11101  Top ID: 99.92
+		Marking as insignificant: 1404457 1405187 | 2 730 | 731 729 | 95.21 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 1484049 1484769 | 2 723 | 721 722 | 98.48 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 998013 998733 | 2 722 | 721 721 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 550586 551307 | 723 2 | 722 722 | 99.31 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 751410 752137 | 729 2 | 728 728 | 98.9 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 1154012 1154738 | 2 728 | 727 727 | 99.17 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 1025228 1025957 | 2 730 | 730 729 | 99.04 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 114217 114945 | 730 2 | 729 729 | 99.18 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 1304014 1304747 | 2 734 | 734 733 | 98.77 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 284019 284746 | 729 2 | 728 728 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 1123024 1124877 | 3647 5507 | 1854 1861 | 98.23 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		Marking as insignificant: 1680657 1682511 | 3652 5506 | 1855 1855 | 98.76 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+		One align captures most of this contig: 255740 266839 | 11102 2 | 11100 11101 | 99.92 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_42_length_11102_cov_303.126
+
+CONTIG: NODE_43_length_3427_cov_1.72301 (3427bp)
+Top Length: 3427  Top ID: 99.97
+		Marking as insignificant: 320656 320747 | 3427 3336 | 92 92 | 98.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_43_length_3427_cov_1.72301
+		Marking as insignificant: 644761 647071 | 755 3072 | 2311 2318 | 98.92 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_43_length_3427_cov_1.72301
+		One align captures most of this contig: 317284 320710 | 3427 1 | 3427 3427 | 99.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_43_length_3427_cov_1.72301
+
+CONTIG: NODE_44_length_27969_cov_310.914 (27969bp)
+Top Length: 27969  Top ID: 99.94
+		Marking as insignificant: 1054785 1055040 | 784 529 | 256 256 | 96.48 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1482886 1483675 | 790 1 | 790 790 | 97.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1403268 1404083 | 816 1 | 816 816 | 95.96 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 551681 552496 | 1 816 | 816 816 | 99.26 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 115319 116135 | 1 817 | 817 817 | 99.14 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 996823 997639 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 267213 268029 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1152821 1153638 | 818 1 | 818 818 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1024037 1024854 | 818 1 | 818 818 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 752511 753332 | 1 822 | 822 822 | 99.15 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1302813 1303640 | 829 1 | 828 829 | 99.16 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1078632 1079641 | 27969 26959 | 1010 1011 | 97.53 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 639248 640259 | 26957 27969 | 1012 1013 | 97.83 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 1374299 1375378 | 27969 26890 | 1080 1080 | 97.04 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 623970 625078 | 26857 27969 | 1109 1113 | 96.95 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		Marking as insignificant: 177301 178424 | 26844 27969 | 1124 1126 | 98.49 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+		One align captures most of this contig: 285120 313089 | 1 27969 | 27970 27969 | 99.94 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_44_length_27969_cov_310.914
+
+Analyzing coverage...
+Writing SNPs into /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_1.used_snps
+	Reference Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_: 11 total alignments. 1 total regions.
+		Region: 1 to 1999618 (1999618 bp)
+			START in gap: 1 to 179887 (179886 bp)
+			Align 1: 179887 180873 NODE_40_length_987_cov_309.523 987 1
+				Gap between this and next alignment: 180873 to 181146 (272 bp)
+				Next Alignment: 181146 182202 NODE_32_length_1057_cov_298.503 1057 1
+
+			Align 2: 181146 182202 NODE_32_length_1057_cov_298.503 1057 1
+				Gap between this and next alignment: 182202 to 255740 (73537 bp)
+				Next Alignment: 255740 266839 NODE_42_length_11102_cov_303.126 11102 2
+
+			Align 3: 255740 266839 NODE_42_length_11102_cov_303.126 11102 2
+				Gap between this and next alignment: 266839 to 267213 (373 bp)
+				Next Alignment: 267213 284746 NODE_41_length_17535_cov_311.913 1 17534
+
+			Align 4: 267213 284746 NODE_41_length_17535_cov_311.913 1 17534
+				Gap between this and next alignment: 284746 to 285120 (373 bp)
+				Next Alignment: 285120 313089 NODE_44_length_27969_cov_310.914 1 27969
+
+			Align 5: 285120 313089 NODE_44_length_27969_cov_310.914 1 27969
+				Gap between this and next alignment: 313089 to 313779 (689 bp)
+				Next Alignment: 313779 314606 NODE_25_length_832_cov_317.008 1 832
+
+			Align 6: 313779 314606 NODE_25_length_832_cov_317.008 1 832
+				Gap between this and next alignment: 314606 to 316813 (2206 bp)
+				Next Alignment: 316813 320710 NODE_34_length_3898_cov_294.65 3898 1
+
+			Align 7: 316813 320710 NODE_34_length_3898_cov_294.65 3898 1
+				The next alignment (317284 320710 NODE_43_length_3427_cov_1.72301 3427 1) is redundant. Skipping.
+				Gap between this and next alignment: 320710 to 640090 (319379 bp)
+				Next Alignment: 640090 640951 NODE_38_length_862_cov_88.5167 862 1
+
+			Align 9: 640090 640951 NODE_38_length_862_cov_88.5167 862 1
+				The next alignment (640205 640951 NODE_37_length_747_cov_199.488 747 1) is redundant. Skipping.
+				The next alignment (640258 640951 NODE_30_length_694_cov_43.795 694 1) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /working-dir/metaquast_test_output_no_ref/runs_per_reference/Lactobacillus_reuteri_DSM_20016/contigs_reports/nucmer_output/meta_contigs_1.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 5179
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 64236
+
+	SNPs: 45
+	Insertions: 6
+	Deletions: 2
+
+	Positive Gaps: 8
+		Internal Gaps:  0
+		External Gaps:  8
+		External Gap Total:  576715
+		External Gap Average: 72089
+	Negative Gaps: 0
+		Internal Overlaps:  0
+		External Overlaps:  0
+		External Overlaps Total:  0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 2 (4868)

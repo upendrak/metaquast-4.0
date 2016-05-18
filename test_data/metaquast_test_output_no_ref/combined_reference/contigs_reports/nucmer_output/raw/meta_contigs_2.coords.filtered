@@ -1,0 +1,38 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1851890 1864266 | 12368 1 | 12377 12368 | 99.57 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+1850023 1851560 | 13905 12368 | 1538 1538 | 99.74 | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+1841599 1862418 | 35212 14391 | 20820 20822 | 99.23 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+1819861 1840092 | 55421 35204 | 20232 20218 | 98.74 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_1_length_55421_cov_26.1146_ID_4744408
+1886298 1935935 | 1 49639 | 49638 49639 | 99.57 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_2_length_49658_cov_2.58581_ID_2497514
+285882 313142 | 27260 1 | 27261 27260 | 99.97 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_3_length_27260_cov_310.524_ID_9332986
+267975 284073 | 16099 1 | 16099 16099 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_4_length_16099_cov_310.325_ID_9343456
+255740 266166 | 10428 1 | 10427 10428 | 99.99 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_5_length_10428_cov_300.989_ID_9343584
+313727 320710 | 6988 1 | 6984 6988 | 99.91 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_6_length_6988_cov_303.415_ID_9341226
+1412976 1416423 | 3447 1 | 3448 3447 | 99.36 | Lactobacillus_delbrueckii_subsp_bulgaricus_2038_gi_385814818_ref_NC_ NODE_7_length_3447_cov_44.4894_ID_2480336
+267213 268029 | 817 1 | 817 817 | 99.51 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+1302824 1303640 | 1 817 | 817 817 | 99.51 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+996823 997639 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+1024038 1024854 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+1152822 1153638 | 1 817 | 817 817 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+115319 116135 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+752511 753327 | 817 1 | 817 817 | 99.27 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+551681 552496 | 817 2 | 816 816 | 99.39 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+285120 285936 | 817 1 | 817 817 | 98.65 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_8_length_817_cov_651.256_ID_9343784 ambiguous
+284019 284747 | 1 729 | 729 729 | 100.0 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806 ambiguous
+114218 114945 | 1 728 | 728 728 | 99.18 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806 ambiguous
+187675 188401 | 1 728 | 727 728 | 99.18 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806 ambiguous
+1077512 1078239 | 1 728 | 728 728 | 99.18 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_9_length_729_cov_671.122_ID_9343806 ambiguous
+1881071 1881783 | 714 1 | 713 714 | 99.02 | Lactobacillus_plantarum_16_gi_513839884_ref_NC_ NODE_10_length_714_cov_2.71927_ID_9333852
+640258 640951 | 694 1 | 694 694 | 99.86 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+313088 313781 | 694 1 | 694 694 | 99.71 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+625077 625770 | 694 1 | 694 694 | 99.71 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+1077940 1078633 | 1 694 | 694 694 | 99.57 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+1168859 1169552 | 1 694 | 694 694 | 99.57 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+347578 348271 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+663795 664488 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+682861 683554 | 694 1 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+1523949 1524642 | 1 694 | 694 694 | 99.42 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+178423 179116 | 694 1 | 694 694 | 99.28 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+1373607 1374300 | 1 694 | 694 694 | 99.28 | Lactobacillus_reuteri_DSM_20016_gi_148543243_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous
+204354 205047 | 694 1 | 694 694 | 99.28 | Lactobacillus_reuteri_TD1_gi_526230725_ref_NC_ NODE_11_length_694_cov_336.263_ID_9343406 ambiguous

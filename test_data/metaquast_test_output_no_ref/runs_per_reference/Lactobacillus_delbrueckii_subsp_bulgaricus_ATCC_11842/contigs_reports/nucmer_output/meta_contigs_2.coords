@@ -1,0 +1,21 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+   44900    45533  |    54791    55421  |      634      631  |    98.42  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+  688833   689509  |    54747    55421  |      677      675  |    96.32  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+  806186   806766  |    54842    55421  |      581      580  |    99.14  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1065941  1066811  |    43191    44049  |      871      859  |    97.01  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1340797  1341593  |     6421     5625  |      797      797  |    98.62  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1341593  1342390  |     5350     4553  |      798      798  |    98.12  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1361122  1361797  |    55421    54748  |      676      674  |    96.02  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1471789  1472370  |    55421    54842  |      582      580  |    98.45  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1544483  1545117  |    55421    54791  |      635      631  |    98.11  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1578140  1578837  |    55421    54724  |      698      698  |    96.01  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1666194  1666293  |    44038    43939  |      100      100  |    99.00  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1788246  1788865  |    55421    54803  |      620      619  |    98.71  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1795833  1807413  |    55421    43846  |    11581    11576  |    99.49  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1809071  1818885  |    43846    34032  |     9815     9815  |    99.46  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1819939  1821400  |    33491    32031  |     1462     1461  |    99.93  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1831357  1848882  |    31918    14391  |    17526    17528  |    99.28  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1849503  1849808  |    44040    43735  |      306      306  |    98.69  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1850023  1851560  |    13905    12368  |     1538     1538  |    99.74  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
+ 1851890  1864266  |    12368        1  |    12377    12368  |    99.57  | Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842_gi_104773257_ref_NC_	NODE_1_length_55421_cov_26.1146_ID_4744408
